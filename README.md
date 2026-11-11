@@ -13,10 +13,11 @@ A static, mobile-friendly job dashboard with a scheduled Python collector. It fe
 1. Create/sign in to a GitHub account at https://github.com.
 2. Create a new **public** repository named `global-career-radar`.
 3. Upload all files and folders in this project to the repository root (including the hidden `.github` folder).
-4. In the repository, open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**, branch `main`, folder `/ (root)`, then Save.
-6. Wait for GitHub Pages to publish. The site URL will be shown in Settings → Pages, usually `https://YOUR-USERNAME.github.io/global-career-radar/`.
-7. Open **Actions** and run **Refresh verified job listings** once manually. The daily scheduled run then refreshes at 05:00 Ghana time.
+4. Upload the *contents* of this project directly into the repository root (so `index.html` and `.github/` are at the top level; do not upload an enclosing `global-career-radar` folder).
+5. In the repository, open **Settings → Pages**.
+6. Under **Build and deployment → Source**, choose **GitHub Actions**.
+7. Open **Actions** and run **Deploy Global Career Radar to GitHub Pages** once manually. The `pages.yml` workflow publishes the static site. The site URL will appear in **Settings → Pages**, usually `https://YOUR-USERNAME.github.io/global-career-radar/`.
+8. The separate **Refresh verified job listings** workflow runs at 05:00 UTC (Ghana time). The Pages deployment workflow republishes refreshed data at 05:15 UTC. You can also run either workflow manually from **Actions**.
 
 ## Important source coverage note
 The collector currently reads employer-owned public Greenhouse and Lever boards listed in `sources.json`. It does not scrape LinkedIn or Jobberman pages and does not claim comprehensive market coverage. Add an employer's exact Greenhouse board token or Lever site slug to `sources.json` to extend coverage. Public board APIs may change or rate-limit; check the Actions log if a source fails.
