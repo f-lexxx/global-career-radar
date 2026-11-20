@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T14:10:57.960052+00:00",
+  "updated_at": "2026-11-20T13:53:35.623767+00:00",
   "sources_checked": 8,
   "source_errors": [
     "Notion: HTTP Error 404: Not Found",
@@ -7,6 +7,216 @@
     "Remote: HTTP Error 404: Not Found"
   ],
   "jobs": [
+    {
+      "id": "twilio-staff-software-engineer-l4-https-job-boards-greenhouse-io-twilio-jobs-8319434",
+      "title": "Staff, Software Engineer (L4)",
+      "company": "Twilio",
+      "location": "Remote - India",
+      "country": "Usa",
+      "work_mode": "Remote",
+      "relocation": "Not stated",
+      "seniority": "Mid",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&nbsp;hundreds of thousands of businesses&nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Hiring and how we work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;&lt;/p&gt;\n&lt;p&gt;Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&qu",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
+      "posted_at": "2026-11-20T08:53:27-05:00",
+      "source_name": "Twilio official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:35.015553+00:00"
+    },
+    {
+      "id": "twilio-senior-solutions-engineer-https-job-boards-greenhouse-io-twilio-jobs-8327839",
+      "title": "Senior Solutions Engineer",
+      "company": "Twilio",
+      "location": "Remote - United Kingdom",
+      "country": "United Kingdom",
+      "work_mode": "Remote",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&nbsp;hundreds of thousands of businesses&nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Hiring and how we work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;&lt;/p&gt;\n&lt;p&gt;Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&qu",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8327839",
+      "posted_at": "2026-11-20T08:53:11-05:00",
+      "source_name": "Twilio official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:35.012921+00:00"
+    },
+    {
+      "id": "cloudflare-senior-territory-account-executive-bengaluru-https-boards-greenhouse-io-cloudflare-jobs-8391880-gh-jid-8391880",
+      "title": "Senior Territory Account Executive, Bengaluru",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Usa",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;p class=&quot;p2&quot;&gt;&lt;strong&gt;Please note: This role will require you to be based in Bengaluru.&lt;br&gt;&lt;br&gt;&lt;/",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8391880?gh_jid=8391880",
+      "posted_at": "2026-11-19T23:47:10-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.262741+00:00"
+    },
+    {
+      "id": "cloudflare-network-deployment-engineer-apjc-https-boards-greenhouse-io-cloudflare-jobs-8088046-gh-jid-8088046",
+      "title": "Network Deployment Engineer - APJC",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Singapore",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Entry",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;Available Locations: Singapore or Sydney&lt;/strong&gt;&lt;/h4&gt;\n&lt;h4&gt;&lt;strong&gt;About the Team&lt;/",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8088046?gh_jid=8088046",
+      "posted_at": "2026-11-19T20:36:50-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.167195+00:00"
+    },
+    {
+      "id": "cloudflare-professional-services-consultant-application-security-https-boards-greenhouse-io-cloudflare-jobs-8393924-gh-jid-8393924",
+      "title": "Professional Services Consultant, Application Security",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Not stated",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Entry",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Available Locations:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;San Francisco Bay Area&lt;/str",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8393924?gh_jid=8393924",
+      "posted_at": "2026-11-19T17:05:16-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.179622+00:00"
+    },
+    {
+      "id": "twilio-software-engineer-platform-engineering-https-job-boards-greenhouse-io-twilio-jobs-8385593",
+      "title": "Software Engineer - Platform Engineering",
+      "company": "Twilio",
+      "location": "Remote - US",
+      "country": "Usa",
+      "work_mode": "Remote",
+      "relocation": "Not stated",
+      "seniority": "Mid",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&nbsp;hundreds of thousands of businesses&nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Hiring and how we work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;&lt;/p&gt;\n&lt;p&gt;Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&qu",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8385593",
+      "posted_at": "2026-11-19T15:26:38-05:00",
+      "source_name": "Twilio official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:35.013643+00:00"
+    },
+    {
+      "id": "cloudflare-commercial-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8392838-gh-jid-8392838",
+      "title": "Commercial Account Executive",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Germany",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Entry",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(230, 126, 35);&quot;&gt;Available Locations&lt;/span&gt;&lt;/h2&gt;\n&lt;hr&gt;\n&lt;p&gt;Muni",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8392838?gh_jid=8392838",
+      "posted_at": "2026-11-19T15:18:55-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.141348+00:00"
+    },
+    {
+      "id": "cloudflare-named-account-executive-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8392916-gh-jid-8392916",
+      "title": "Named Account Executive, Digital Natives",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Germany",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Entry",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(230, 126, 35);&quot;&gt;&lt;strong&gt;Available Locations&lt;/strong&gt;&lt;/span&gt;&lt;/h2",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8392916?gh_jid=8392916",
+      "posted_at": "2026-11-19T15:08:50-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.163866+00:00"
+    },
+    {
+      "id": "cloudflare-senior-specialist-solutions-engineer-cloudflare-one-russian-or-hebrew-speaking-https-boards-greenhouse-io-cloudflare-jobs-8264043-gh-jid-8264043",
+      "title": "Senior Specialist Solutions Engineer, Cloudflare One - Russian or Hebrew speaking",
+      "company": "Cloudflare",
+      "location": "Distributed",
+      "country": "Not stated",
+      "work_mode": "Not stated",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Available Location: London, Munich, Amsterdam, Paris, Lisbon&lt;/strong&gt;&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8264043?gh_jid=8264043",
+      "posted_at": "2026-11-19T11:35:07-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.256502+00:00"
+    },
+    {
+      "id": "cloudflare-senior-network-engineer-https-boards-greenhouse-io-cloudflare-jobs-7992903-gh-jid-7992903",
+      "title": "Senior Network Engineer",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Not stated",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Austin, US&lt;/li&gt;\n&lt;li&gt;Atlanta, GA&lt;/li&gt;\n&lt;li&gt;Denver,",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7992903?gh_jid=7992903",
+      "posted_at": "2026-11-19T11:23:40-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.243124+00:00"
+    },
+    {
+      "id": "cloudflare-network-deployment-engineer-https-boards-greenhouse-io-cloudflare-jobs-8099671-gh-jid-8099671",
+      "title": "Network Deployment Engineer",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Global",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Entry",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;Available Locations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Atlanta, US&lt;/li&gt;\n&lt;li&gt;Austin, US&lt;/li&gt;\n&lt;li&gt;Denver,",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8099671?gh_jid=8099671",
+      "posted_at": "2026-11-19T11:21:23-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.166772+00:00"
+    },
+    {
+      "id": "cloudflare-senior-majors-account-executive-new-business-https-boards-greenhouse-io-cloudflare-jobs-8393538-gh-jid-8393538",
+      "title": "Senior Majors Account Executive, New Business",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Germany",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(230, 126, 35);&quot;&gt;Available Locations&lt;/span&gt;&lt;/h2&gt;\n&lt;hr&gt;\n&lt;p&gt;Muni",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8393538?gh_jid=8393538",
+      "posted_at": "2026-11-19T11:09:19-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.225554+00:00"
+    },
+    {
+      "id": "cloudflare-senior-majors-account-manager-https-boards-greenhouse-io-cloudflare-jobs-8393704-gh-jid-8393704",
+      "title": "Senior Majors Account Manager",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Not stated",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(230, 126, 35);&quot;&gt;Available Locations&lt;/span&gt;&lt;/h2&gt;\n&lt;hr&gt;\n&lt;p&gt;Muni",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8393704?gh_jid=8393704",
+      "posted_at": "2026-11-19T11:09:02-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.228028+00:00"
+    },
+    {
+      "id": "cloudflare-software-engineer-platforms-productivity-https-boards-greenhouse-io-cloudflare-jobs-8168623-gh-jid-8168623",
+      "title": "Software Engineer - Platforms & Productivity",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Not stated",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Entry",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;About the Team and Role&lt;/h3&gt;\n&lt;p&gt;The Developer Productivity team builds internal tools and platforms that improve",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623",
+      "posted_at": "2026-11-19T10:54:50-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.272292+00:00"
+    },
     {
       "id": "cloudflare-senior-sales-manager-central-eastern-europe-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8219962-gh-jid-8219962",
       "title": "Senior Sales Manager, Central Eastern Europe - Digital Natives",
@@ -20,7 +230,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8219962?gh_jid=8219962",
       "posted_at": "2026-11-19T04:54:48-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.425571+00:00"
+      "verified_at": "2026-11-20T13:53:34.249410+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-india-https-boards-greenhouse-io-cloudflare-jobs-8326536-gh-jid-8326536",
@@ -35,7 +245,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8326536?gh_jid=8326536",
       "posted_at": "2026-11-19T00:17:06-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.440061+00:00"
+      "verified_at": "2026-11-20T13:53:34.264400+00:00"
     },
     {
       "id": "cloudflare-enterprise-architect-toronto-canada-https-boards-greenhouse-io-cloudflare-jobs-8319377-gh-jid-8319377",
@@ -50,7 +260,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8319377?gh_jid=8319377",
       "posted_at": "2026-11-18T16:53:11-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.321781+00:00"
+      "verified_at": "2026-11-20T13:53:34.154932+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-vancouver-bc-https-boards-greenhouse-io-cloudflare-jobs-8223736-gh-jid-8223736",
@@ -65,7 +275,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8223736?gh_jid=8223736",
       "posted_at": "2026-11-18T14:52:33-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.384040+00:00"
+      "verified_at": "2026-11-20T13:53:34.211271+00:00"
     },
     {
       "id": "cloudflare-senior-product-manager-observability-https-boards-greenhouse-io-cloudflare-jobs-8370842-gh-jid-8370842",
@@ -80,7 +290,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8370842?gh_jid=8370842",
       "posted_at": "2026-11-18T14:38:08-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.422855+00:00"
+      "verified_at": "2026-11-20T13:53:34.246785+00:00"
     },
     {
       "id": "cloudflare-hardware-systems-engineer-tooling-https-boards-greenhouse-io-cloudflare-jobs-8370313-gh-jid-8370313",
@@ -95,7 +305,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8370313?gh_jid=8370313",
       "posted_at": "2026-11-18T12:27:48-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.328004+00:00"
+      "verified_at": "2026-11-20T13:53:34.160411+00:00"
     },
     {
       "id": "cloudflare-strategic-account-director-developer-platform-https-boards-greenhouse-io-cloudflare-jobs-8375925-gh-jid-8375925",
@@ -110,7 +320,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8375925?gh_jid=8375925",
       "posted_at": "2026-11-18T12:27:46-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.450584+00:00"
+      "verified_at": "2026-11-20T13:53:34.275403+00:00"
     },
     {
       "id": "cloudflare-senior-system-engineer-https-boards-greenhouse-io-cloudflare-jobs-8164600-gh-jid-8164600",
@@ -125,7 +335,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8164600?gh_jid=8164600",
       "posted_at": "2026-11-18T12:09:53-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.433492+00:00"
+      "verified_at": "2026-11-20T13:53:34.257296+00:00"
     },
     {
       "id": "twilio-applications-engineer-2-https-job-boards-greenhouse-io-twilio-jobs-7781659",
@@ -140,7 +350,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7781659",
       "posted_at": "2026-11-18T10:29:16-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.443088+00:00"
+      "verified_at": "2026-11-20T13:53:35.001142+00:00"
     },
     {
       "id": "twilio-presales-engineer-https-job-boards-greenhouse-io-twilio-jobs-8064090",
@@ -155,7 +365,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8064090",
       "posted_at": "2026-11-18T10:28:38-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.448980+00:00"
+      "verified_at": "2026-11-20T13:53:35.006643+00:00"
     },
     {
       "id": "twilio-presales-engineer-https-job-boards-greenhouse-io-twilio-jobs-8157509",
@@ -170,7 +380,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8157509",
       "posted_at": "2026-11-18T10:28:01-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.449318+00:00"
+      "verified_at": "2026-11-20T13:53:35.007257+00:00"
     },
     {
       "id": "twilio-devops-engineer-observability-https-job-boards-greenhouse-io-twilio-jobs-8108771",
@@ -185,7 +395,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8108771",
       "posted_at": "2026-11-18T10:27:58-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.444552+00:00"
+      "verified_at": "2026-11-20T13:53:35.002450+00:00"
     },
     {
       "id": "twilio-presales-engineer-https-job-boards-greenhouse-io-twilio-jobs-8243073",
@@ -200,7 +410,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8243073",
       "posted_at": "2026-11-18T10:27:30-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.448650+00:00"
+      "verified_at": "2026-11-20T13:53:35.006936+00:00"
     },
     {
       "id": "twilio-staff-software-engineer-l4-https-job-boards-greenhouse-io-twilio-jobs-8240288",
@@ -215,37 +425,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
       "posted_at": "2026-11-18T10:27:22-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.457458+00:00"
-    },
-    {
-      "id": "twilio-senior-solutions-engineer-https-job-boards-greenhouse-io-twilio-jobs-8327839",
-      "title": "Senior Solutions Engineer",
-      "company": "Twilio",
-      "location": "Remote - United Kingdom",
-      "country": "United Kingdom",
-      "work_mode": "Remote",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&nbsp;hundreds of thousands of businesses&nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Hiring and how we work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;&lt;/p&gt;\n&lt;p&gt;Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&qu",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8327839",
-      "posted_at": "2026-11-18T10:23:05-05:00",
-      "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.455176+00:00"
-    },
-    {
-      "id": "twilio-staff-software-engineer-l4-https-job-boards-greenhouse-io-twilio-jobs-8319434",
-      "title": "Staff, Software Engineer (L4)",
-      "company": "Twilio",
-      "location": "Remote - India",
-      "country": "Usa",
-      "work_mode": "Remote",
-      "relocation": "Not stated",
-      "seniority": "Mid",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&nbsp;hundreds of thousands of businesses&nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Hiring and how we work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;&lt;/p&gt;\n&lt;p&gt;Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&qu",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
-      "posted_at": "2026-11-18T10:22:38-05:00",
-      "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.457792+00:00"
+      "verified_at": "2026-11-20T13:53:35.015243+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-israel-https-boards-greenhouse-io-cloudflare-jobs-8155990-gh-jid-8155990",
@@ -260,22 +440,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8155990?gh_jid=8155990",
       "posted_at": "2026-11-18T09:56:57-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.459077+00:00"
-    },
-    {
-      "id": "twilio-software-engineer-platform-engineering-https-job-boards-greenhouse-io-twilio-jobs-8385593",
-      "title": "Software Engineer - Platform Engineering",
-      "company": "Twilio",
-      "location": "Remote - US",
-      "country": "Usa",
-      "work_mode": "Remote",
-      "relocation": "Not stated",
-      "seniority": "Mid",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&nbsp;hundreds of thousands of businesses&nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Hiring and how we work&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;&lt;/p&gt;\n&lt;p&gt;Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&qu",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8385593",
-      "posted_at": "2026-11-18T09:48:12-05:00",
-      "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.455911+00:00"
+      "verified_at": "2026-11-20T13:53:34.284034+00:00"
     },
     {
       "id": "cloudflare-network-operations-engineer-https-boards-greenhouse-io-cloudflare-jobs-8311366-gh-jid-8311366",
@@ -290,7 +455,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8311366?gh_jid=8311366",
       "posted_at": "2026-11-18T09:45:29-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.336153+00:00"
+      "verified_at": "2026-11-20T13:53:34.167594+00:00"
     },
     {
       "id": "cloudflare-customer-engineering-specialist-network-services-https-boards-greenhouse-io-cloudflare-jobs-7525971-gh-jid-7525971",
@@ -305,7 +470,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7525971?gh_jid=7525971",
       "posted_at": "2026-11-18T09:22:35-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.309007+00:00"
+      "verified_at": "2026-11-20T13:53:34.142916+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-https-boards-greenhouse-io-cloudflare-jobs-7610071-gh-jid-7610071",
@@ -320,52 +485,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7610071?gh_jid=7610071",
       "posted_at": "2026-11-18T07:48:16-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.357516+00:00"
-    },
-    {
-      "id": "cloudflare-commercial-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8392838-gh-jid-8392838",
-      "title": "Commercial Account Executive",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Germany",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Entry",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(230, 126, 35);&quot;&gt;Available Locations&lt;/span&gt;&lt;/h2&gt;\n&lt;hr&gt;\n&lt;p&gt;Germ",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8392838?gh_jid=8392838",
-      "posted_at": "2026-11-18T06:56:15-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.307443+00:00"
-    },
-    {
-      "id": "cloudflare-named-account-executive-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8392916-gh-jid-8392916",
-      "title": "Named Account Executive, Digital Natives",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Germany",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Entry",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(230, 126, 35);&quot;&gt;&lt;strong&gt;Available Locations&lt;/strong&gt;&lt;/span&gt;&lt;/h2",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8392916?gh_jid=8392916",
-      "posted_at": "2026-11-18T06:55:58-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.332033+00:00"
-    },
-    {
-      "id": "cloudflare-senior-majors-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8393538-gh-jid-8393538",
-      "title": "Senior Majors Account Executive",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Germany",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;span style=&quot;color: rgb(230, 126, 35);&quot;&gt;Available Locations&lt;/span&gt;&lt;/h2&gt;\n&lt;hr&gt;\n&lt;p&gt;Germ",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8393538?gh_jid=8393538",
-      "posted_at": "2026-11-18T06:55:44-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.394694+00:00"
+      "verified_at": "2026-11-20T13:53:34.188264+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-nordics-https-boards-greenhouse-io-cloudflare-jobs-7668318-gh-jid-7668318",
@@ -380,7 +500,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7668318?gh_jid=7668318",
       "posted_at": "2026-11-18T05:59:04-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.414534+00:00"
+      "verified_at": "2026-11-20T13:53:34.239145+00:00"
     },
     {
       "id": "cloudflare-technical-support-engineer-zero-trust-https-boards-greenhouse-io-cloudflare-jobs-8229998-gh-jid-8229998",
@@ -395,7 +515,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8229998?gh_jid=8229998",
       "posted_at": "2026-11-17T21:26:41-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.457099+00:00"
+      "verified_at": "2026-11-20T13:53:34.281350+00:00"
     },
     {
       "id": "cloudflare-hardware-systems-engineer-ai-hardware-https-boards-greenhouse-io-cloudflare-jobs-8325834-gh-jid-8325834",
@@ -410,7 +530,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8325834?gh_jid=8325834",
       "posted_at": "2026-11-17T17:53:32-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.327456+00:00"
+      "verified_at": "2026-11-20T13:53:34.159900+00:00"
     },
     {
       "id": "twilio-strategic-account-executive-4-https-job-boards-greenhouse-io-twilio-jobs-8356811",
@@ -425,7 +545,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8356811",
       "posted_at": "2026-11-17T16:23:27-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.459260+00:00"
+      "verified_at": "2026-11-20T13:53:35.017265+00:00"
     },
     {
       "id": "twilio-executive-assistant-3-https-job-boards-greenhouse-io-twilio-jobs-8281950",
@@ -440,7 +560,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8281950",
       "posted_at": "2026-11-17T16:23:26-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.445553+00:00"
+      "verified_at": "2026-11-20T13:53:35.003470+00:00"
     },
     {
       "id": "twilio-senior-account-executive-https-job-boards-greenhouse-io-twilio-jobs-8327434",
@@ -455,7 +575,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8327434",
       "posted_at": "2026-11-17T16:23:26-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.452277+00:00"
+      "verified_at": "2026-11-20T13:53:35.009979+00:00"
     },
     {
       "id": "twilio-account-executive-4-https-job-boards-greenhouse-io-twilio-jobs-8249615",
@@ -470,7 +590,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8249615",
       "posted_at": "2026-11-17T16:23:25-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.442527+00:00"
+      "verified_at": "2026-11-20T13:53:35.000595+00:00"
     },
     {
       "id": "twilio-principal-presales-engineer-https-job-boards-greenhouse-io-twilio-jobs-8237699",
@@ -485,7 +605,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8237699",
       "posted_at": "2026-11-17T16:23:25-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.450156+00:00"
+      "verified_at": "2026-11-20T13:53:35.008017+00:00"
     },
     {
       "id": "twilio-principal-presales-engineer-https-job-boards-greenhouse-io-twilio-jobs-8145984",
@@ -500,7 +620,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8145984",
       "posted_at": "2026-11-17T16:23:25-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.450545+00:00"
+      "verified_at": "2026-11-20T13:53:35.008377+00:00"
     },
     {
       "id": "twilio-senior-manager-customer-success-https-job-boards-greenhouse-io-twilio-jobs-8213826",
@@ -515,7 +635,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8213826",
       "posted_at": "2026-11-17T16:23:25-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.454326+00:00"
+      "verified_at": "2026-11-20T13:53:35.012063+00:00"
     },
     {
       "id": "twilio-strategic-account-executive-4-regverts-https-job-boards-greenhouse-io-twilio-jobs-8261705",
@@ -530,7 +650,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8261705",
       "posted_at": "2026-11-17T16:23:25-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.459650+00:00"
+      "verified_at": "2026-11-20T13:53:35.017623+00:00"
     },
     {
       "id": "twilio-tech-lead-sr-principal-engineer-l6-https-job-boards-greenhouse-io-twilio-jobs-7966928",
@@ -545,7 +665,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7966928",
       "posted_at": "2026-11-17T16:23:24-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.460231+00:00"
+      "verified_at": "2026-11-20T13:53:35.018184+00:00"
     },
     {
       "id": "twilio-new-business-account-executive-https-job-boards-greenhouse-io-twilio-jobs-6372770",
@@ -560,7 +680,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/6372770",
       "posted_at": "2026-11-17T16:23:23-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.447523+00:00"
+      "verified_at": "2026-11-20T13:53:35.005232+00:00"
     },
     {
       "id": "figma-technical-program-manager-ai-https-boards-greenhouse-io-figma-jobs-6261622004-gh-jid-6261622004",
@@ -575,7 +695,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6261622004?gh_jid=6261622004",
       "posted_at": "2026-11-17T13:49:54-05:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.613822+00:00"
+      "verified_at": "2026-11-20T13:53:34.391322+00:00"
     },
     {
       "id": "cloudflare-senior-manager-customer-engineering-uki-https-boards-greenhouse-io-cloudflare-jobs-7761342-gh-jid-7761342",
@@ -590,7 +710,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7761342?gh_jid=7761342",
       "posted_at": "2026-11-17T13:13:14-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.403292+00:00"
+      "verified_at": "2026-11-20T13:53:34.229953+00:00"
     },
     {
       "id": "cloudflare-sales-manager-iberia-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8385432-gh-jid-8385432",
@@ -605,7 +725,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8385432?gh_jid=8385432",
       "posted_at": "2026-11-17T12:13:47-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.352413+00:00"
+      "verified_at": "2026-11-20T13:53:34.183255+00:00"
     },
     {
       "id": "cloudflare-senior-software-engineer-https-boards-greenhouse-io-cloudflare-jobs-8383586-gh-jid-8383586",
@@ -620,7 +740,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8383586?gh_jid=8383586",
       "posted_at": "2026-11-17T10:45:54-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.426879+00:00"
+      "verified_at": "2026-11-20T13:53:34.250622+00:00"
     },
     {
       "id": "airtable-senior-solutions-architect-https-job-boards-greenhouse-io-airtable-jobs-8498915002",
@@ -635,7 +755,7 @@
       "url": "https://job-boards.greenhouse.io/airtable/jobs/8498915002",
       "posted_at": "2026-11-17T08:00:57-05:00",
       "source_name": "Airtable official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:57.533096+00:00"
+      "verified_at": "2026-11-20T13:53:35.058208+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-central-eastern-europe-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-7735965-gh-jid-7735965",
@@ -650,7 +770,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7735965?gh_jid=7735965",
       "posted_at": "2026-11-17T07:04:13-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.408097+00:00"
+      "verified_at": "2026-11-20T13:53:34.233185+00:00"
     },
     {
       "id": "cloudflare-senior-manager-customer-engineering-https-boards-greenhouse-io-cloudflare-jobs-8370855-gh-jid-8370855",
@@ -665,7 +785,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8370855?gh_jid=8370855",
       "posted_at": "2026-11-17T06:19:31-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.402173+00:00"
+      "verified_at": "2026-11-20T13:53:34.228885+00:00"
     },
     {
       "id": "cloudflare-senior-solutions-architect-apjc-developer-platform-india-market-https-boards-greenhouse-io-cloudflare-jobs-8169689-gh-jid-8169689",
@@ -680,22 +800,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8169689?gh_jid=8169689",
       "posted_at": "2026-11-17T03:03:05-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.432044+00:00"
-    },
-    {
-      "id": "cloudflare-senior-customer-engineer-vancouver-bc-https-boards-greenhouse-io-cloudflare-jobs-8327965-gh-jid-8327965",
-      "title": "Senior Customer Engineer - Vancouver BC",
-      "company": "Cloudflare",
-      "location": "Distributed",
-      "country": "Not stated",
-      "work_mode": "Not stated",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Available Locations: ",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8327965?gh_jid=8327965",
-      "posted_at": "2026-11-16T12:47:28-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.383177+00:00"
+      "verified_at": "2026-11-20T13:53:34.255950+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-toronto-canada-https-boards-greenhouse-io-cloudflare-jobs-8226556-gh-jid-8226556",
@@ -710,7 +815,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8226556?gh_jid=8226556",
       "posted_at": "2026-11-16T12:46:38-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.381772+00:00"
+      "verified_at": "2026-11-20T13:53:34.210003+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-toronto-canada-https-boards-greenhouse-io-cloudflare-jobs-8223359-gh-jid-8223359",
@@ -725,7 +830,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8223359?gh_jid=8223359",
       "posted_at": "2026-11-16T12:45:36-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.380972+00:00"
+      "verified_at": "2026-11-20T13:53:34.209284+00:00"
     },
     {
       "id": "cloudflare-principal-customer-engineer-toronto-canada-https-boards-greenhouse-io-cloudflare-jobs-8223319-gh-jid-8223319",
@@ -740,7 +845,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8223319?gh_jid=8223319",
       "posted_at": "2026-11-16T12:40:00-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.341260+00:00"
+      "verified_at": "2026-11-20T13:53:34.172273+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-calgary-ab-https-boards-greenhouse-io-cloudflare-jobs-7778747-gh-jid-7778747",
@@ -755,7 +860,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7778747?gh_jid=7778747",
       "posted_at": "2026-11-16T12:38:51-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.359628+00:00"
+      "verified_at": "2026-11-20T13:53:34.190153+00:00"
     },
     {
       "id": "cloudflare-senior-linux-engineer-https-boards-greenhouse-io-cloudflare-jobs-8368421-gh-jid-8368421",
@@ -770,7 +875,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8368421?gh_jid=8368421",
       "posted_at": "2026-11-16T11:40:14-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.393561+00:00"
+      "verified_at": "2026-11-20T13:53:34.220189+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8076958-gh-jid-8076958",
@@ -785,7 +890,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8076958?gh_jid=8076958",
       "posted_at": "2026-11-16T08:20:01-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.361237+00:00"
+      "verified_at": "2026-11-20T13:53:34.191626+00:00"
     },
     {
       "id": "cloudflare-principal-solutions-architect-apjc-developer-platform-mandarin-speaking-https-boards-greenhouse-io-cloudflare-jobs-8179387-gh-jid-8179387",
@@ -800,7 +905,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8179387?gh_jid=8179387",
       "posted_at": "2026-11-14T02:15:15-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.346507+00:00"
+      "verified_at": "2026-11-20T13:53:34.177172+00:00"
     },
     {
       "id": "cloudflare-data-engineer-https-boards-greenhouse-io-cloudflare-jobs-8055118-gh-jid-8055118",
@@ -815,22 +920,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
       "posted_at": "2026-11-13T14:33:55-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.314315+00:00"
-    },
-    {
-      "id": "cloudflare-head-of-gtm-ai-inference-https-boards-greenhouse-io-cloudflare-jobs-7428796-gh-jid-7428796",
-      "title": "Head of GTM, AI Inference",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Not stated",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Lead / Executive",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;New York, US&lt;/li&gt;\n&lt;li&gt;San Francisco, US&lt;/li&gt;\n&lt;/ul&g",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7428796?gh_jid=7428796",
-      "posted_at": "2026-11-13T12:49:10-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.328635+00:00"
+      "verified_at": "2026-11-20T13:53:34.148044+00:00"
     },
     {
       "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8385867-gh-jid-8385867",
@@ -845,7 +935,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8385867?gh_jid=8385867",
       "posted_at": "2026-11-13T11:37:06-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.390114+00:00"
+      "verified_at": "2026-11-20T13:53:34.217811+00:00"
     },
     {
       "id": "cloudflare-technical-support-engineer-zero-trust-https-boards-greenhouse-io-cloudflare-jobs-8352969-gh-jid-8352969",
@@ -860,7 +950,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8352969?gh_jid=8352969",
       "posted_at": "2026-11-13T10:23:32-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.456218+00:00"
+      "verified_at": "2026-11-20T13:53:34.281762+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-thailand-https-boards-greenhouse-io-cloudflare-jobs-8378849-gh-jid-8378849",
@@ -875,7 +965,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8378849?gh_jid=8378849",
       "posted_at": "2026-11-13T03:24:32-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.334404+00:00"
+      "verified_at": "2026-11-20T13:53:34.165992+00:00"
     },
     {
       "id": "cloudflare-forward-deployed-engineer-fde-professional-services-https-boards-greenhouse-io-cloudflare-jobs-7572075-gh-jid-7572075",
@@ -890,7 +980,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7572075?gh_jid=7572075",
       "posted_at": "2026-11-12T19:47:26-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.323794+00:00"
+      "verified_at": "2026-11-20T13:53:34.157012+00:00"
     },
     {
       "id": "cloudflare-senior-infrastructure-engineer-storage-platform-https-boards-greenhouse-io-cloudflare-jobs-7629805-gh-jid-7629805",
@@ -905,7 +995,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7629805?gh_jid=7629805",
       "posted_at": "2026-11-12T15:39:19-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.392502+00:00"
+      "verified_at": "2026-11-20T13:53:34.219212+00:00"
     },
     {
       "id": "cloudflare-senior-manager-field-marketing-https-boards-greenhouse-io-cloudflare-jobs-8304438-gh-jid-8304438",
@@ -920,7 +1010,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8304438?gh_jid=8304438",
       "posted_at": "2026-11-12T13:07:52-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.403819+00:00"
+      "verified_at": "2026-11-20T13:53:34.230461+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-france-https-boards-greenhouse-io-cloudflare-jobs-7552575-gh-jid-7552575",
@@ -935,7 +1025,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7552575?gh_jid=7552575",
       "posted_at": "2026-11-12T10:07:20-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.397312+00:00"
+      "verified_at": "2026-11-20T13:53:34.223076+00:00"
     },
     {
       "id": "cloudflare-product-security-engineer-https-boards-greenhouse-io-cloudflare-jobs-8102768-gh-jid-8102768",
@@ -950,7 +1040,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8102768?gh_jid=8102768",
       "posted_at": "2026-11-12T06:13:28-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.348625+00:00"
+      "verified_at": "2026-11-20T13:53:34.179188+00:00"
     },
     {
       "id": "cloudflare-senior-product-security-engineer-https-boards-greenhouse-io-cloudflare-jobs-8079931-gh-jid-8079931",
@@ -965,7 +1055,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8079931?gh_jid=8079931",
       "posted_at": "2026-11-12T06:12:24-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.423911+00:00"
+      "verified_at": "2026-11-20T13:53:34.247825+00:00"
     },
     {
       "id": "cloudflare-customer-engineer-korea-https-boards-greenhouse-io-cloudflare-jobs-8140643-gh-jid-8140643",
@@ -980,7 +1070,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8140643?gh_jid=8140643",
       "posted_at": "2026-11-12T02:52:17-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.309545+00:00"
+      "verified_at": "2026-11-20T13:53:34.143419+00:00"
     },
     {
       "id": "cloudflare-enterprise-account-executive-thailand-https-boards-greenhouse-io-cloudflare-jobs-8378851-gh-jid-8378851",
@@ -995,7 +1085,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8378851?gh_jid=8378851",
       "posted_at": "2026-11-12T00:58:21-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.321100+00:00"
+      "verified_at": "2026-11-20T13:53:34.154395+00:00"
     },
     {
       "id": "cloudflare-sr-technical-program-manager-https-boards-greenhouse-io-cloudflare-jobs-8248873-gh-jid-8248873",
@@ -1010,7 +1100,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8248873?gh_jid=8248873",
       "posted_at": "2026-11-11T17:31:49-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.449114+00:00"
+      "verified_at": "2026-11-20T13:53:34.274032+00:00"
     },
     {
       "id": "cloudflare-senior-customer-reliability-engineer-https-boards-greenhouse-io-cloudflare-jobs-8018536-gh-jid-8018536",
@@ -1025,7 +1115,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536",
       "posted_at": "2026-11-11T10:19:43-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.385237+00:00"
+      "verified_at": "2026-11-20T13:53:34.212345+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-kansas-city-https-boards-greenhouse-io-cloudflare-jobs-8373969-gh-jid-8373969",
@@ -1040,7 +1130,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8373969?gh_jid=8373969",
       "posted_at": "2026-11-11T10:03:52-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.440716+00:00"
+      "verified_at": "2026-11-20T13:53:34.265000+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-nebraska-dakota-s-https-boards-greenhouse-io-cloudflare-jobs-8373948-gh-jid-8373948",
@@ -1055,7 +1145,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8373948?gh_jid=8373948",
       "posted_at": "2026-11-11T10:03:34-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.413489+00:00"
+      "verified_at": "2026-11-20T13:53:34.238191+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8358480-gh-jid-8358480",
@@ -1070,7 +1160,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8358480?gh_jid=8358480",
       "posted_at": "2026-11-11T08:25:21-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.437693+00:00"
+      "verified_at": "2026-11-20T13:53:34.261763+00:00"
     },
     {
       "id": "cloudflare-vulnerability-management-engineer-https-boards-greenhouse-io-cloudflare-jobs-7579269-gh-jid-7579269",
@@ -1085,7 +1175,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7579269?gh_jid=7579269",
       "posted_at": "2026-11-11T06:40:48-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.463084+00:00"
+      "verified_at": "2026-11-20T13:53:34.287861+00:00"
     },
     {
       "id": "cloudflare-project-manager-government-projects-team-https-boards-greenhouse-io-cloudflare-jobs-8359292-gh-jid-8359292",
@@ -1100,7 +1190,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8359292?gh_jid=8359292",
       "posted_at": "2026-11-10T17:33:12-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.350509+00:00"
+      "verified_at": "2026-11-20T13:53:34.181386+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-digital-native-https-boards-greenhouse-io-cloudflare-jobs-8044712-gh-jid-8044712",
@@ -1115,7 +1205,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8044712?gh_jid=8044712",
       "posted_at": "2026-11-10T14:09:38-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.409274+00:00"
+      "verified_at": "2026-11-20T13:53:34.234250+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-israel-https-boards-greenhouse-io-cloudflare-jobs-7462504-gh-jid-7462504",
@@ -1130,7 +1220,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7462504?gh_jid=7462504",
       "posted_at": "2026-11-10T12:30:50-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.410799+00:00"
+      "verified_at": "2026-11-20T13:53:34.235661+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-ne-https-boards-greenhouse-io-cloudflare-jobs-8357683-gh-jid-8357683",
@@ -1145,7 +1235,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8357683?gh_jid=8357683",
       "posted_at": "2026-11-10T11:22:19-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.365099+00:00"
+      "verified_at": "2026-11-20T13:53:34.195129+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-mn-https-boards-greenhouse-io-cloudflare-jobs-8201404-gh-jid-8201404",
@@ -1160,7 +1250,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8201404?gh_jid=8201404",
       "posted_at": "2026-11-10T10:32:02-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.412473+00:00"
+      "verified_at": "2026-11-20T13:53:34.237254+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-https-boards-greenhouse-io-cloudflare-jobs-6528593-gh-jid-6528593",
@@ -1175,7 +1265,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/6528593?gh_jid=6528593",
       "posted_at": "2026-11-10T09:54:24-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.457867+00:00"
+      "verified_at": "2026-11-20T13:53:34.282916+00:00"
     },
     {
       "id": "cloudflare-forward-deployed-engineer-professional-services-https-boards-greenhouse-io-cloudflare-jobs-8043339-gh-jid-8043339",
@@ -1190,7 +1280,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8043339?gh_jid=8043339",
       "posted_at": "2026-11-10T09:50:47-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.324143+00:00"
+      "verified_at": "2026-11-20T13:53:34.157669+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-central-eastern-europe-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8203740-gh-jid-8203740",
@@ -1205,7 +1295,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8203740?gh_jid=8203740",
       "posted_at": "2026-11-10T08:28:40-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.439072+00:00"
+      "verified_at": "2026-11-20T13:53:34.263426+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-philippines-https-boards-greenhouse-io-cloudflare-jobs-8329671-gh-jid-8329671",
@@ -1220,7 +1310,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8329671?gh_jid=8329671",
       "posted_at": "2026-11-09T22:52:29-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.459712+00:00"
+      "verified_at": "2026-11-20T13:53:34.284626+00:00"
     },
     {
       "id": "cloudflare-associate-strategic-finance-investor-relations-https-boards-greenhouse-io-cloudflare-jobs-8287256-gh-jid-8287256",
@@ -1235,7 +1325,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8287256?gh_jid=8287256",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.304033+00:00"
+      "verified_at": "2026-11-20T13:53:34.138259+00:00"
     },
     {
       "id": "cloudflare-client-executive-sled-https-boards-greenhouse-io-cloudflare-jobs-8332361-gh-jid-8332361",
@@ -1250,7 +1340,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8332361?gh_jid=8332361",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.306877+00:00"
+      "verified_at": "2026-11-20T13:53:34.140822+00:00"
     },
     {
       "id": "cloudflare-customer-engineer-enterprise-austin-dallas-tx-or-raleigh-nc-https-boards-greenhouse-io-cloudflare-jobs-8329370-gh-jid-8329370",
@@ -1265,7 +1355,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8329370?gh_jid=8329370",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.308523+00:00"
+      "verified_at": "2026-11-20T13:53:34.142475+00:00"
     },
     {
       "id": "cloudflare-customer-reliability-engineer-https-boards-greenhouse-io-cloudflare-jobs-8317751-gh-jid-8317751",
@@ -1280,7 +1370,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8317751?gh_jid=8317751",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.311086+00:00"
+      "verified_at": "2026-11-20T13:53:34.145034+00:00"
     },
     {
       "id": "cloudflare-customer-solutions-strategy-lead-https-boards-greenhouse-io-cloudflare-jobs-8188498-gh-jid-8188498",
@@ -1295,7 +1385,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8188498?gh_jid=8188498",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.311908+00:00"
+      "verified_at": "2026-11-20T13:53:34.145791+00:00"
     },
     {
       "id": "cloudflare-data-center-network-operations-engineer-https-boards-greenhouse-io-cloudflare-jobs-8311376-gh-jid-8311376",
@@ -1310,7 +1400,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8311376?gh_jid=8311376",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.313325+00:00"
+      "verified_at": "2026-11-20T13:53:34.147131+00:00"
     },
     {
       "id": "cloudflare-deal-desk-manager-https-boards-greenhouse-io-cloudflare-jobs-8268432-gh-jid-8268432",
@@ -1325,7 +1415,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8268432?gh_jid=8268432",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.315277+00:00"
+      "verified_at": "2026-11-20T13:53:34.148953+00:00"
     },
     {
       "id": "cloudflare-developer-gtm-strategy-manager-technical-programs-https-boards-greenhouse-io-cloudflare-jobs-8191453-gh-jid-8191453",
@@ -1340,7 +1430,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8191453?gh_jid=8191453",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.316142+00:00"
+      "verified_at": "2026-11-20T13:53:34.149739+00:00"
     },
     {
       "id": "cloudflare-digital-natives-account-executive-https-boards-greenhouse-io-cloudflare-jobs-7735836-gh-jid-7735836",
@@ -1355,7 +1445,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7735836?gh_jid=7735836",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.316493+00:00"
+      "verified_at": "2026-11-20T13:53:34.150049+00:00"
     },
     {
       "id": "cloudflare-digital-natives-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8180715-gh-jid-8180715",
@@ -1370,7 +1460,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8180715?gh_jid=8180715",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.316955+00:00"
+      "verified_at": "2026-11-20T13:53:34.150466+00:00"
     },
     {
       "id": "cloudflare-digital-presales-customer-engineer-https-boards-greenhouse-io-cloudflare-jobs-8238758-gh-jid-8238758",
@@ -1385,7 +1475,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8238758?gh_jid=8238758",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.317514+00:00"
+      "verified_at": "2026-11-20T13:53:34.150941+00:00"
     },
     {
       "id": "cloudflare-engineering-manager-data-center-operations-https-boards-greenhouse-io-cloudflare-jobs-8293647-gh-jid-8293647",
@@ -1400,7 +1490,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8293647?gh_jid=8293647",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.319598+00:00"
+      "verified_at": "2026-11-20T13:53:34.152981+00:00"
     },
     {
       "id": "cloudflare-enterprise-account-executive-philippines-https-boards-greenhouse-io-cloudflare-jobs-8332958-gh-jid-8332958",
@@ -1415,7 +1505,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8332958?gh_jid=8332958",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.320640+00:00"
+      "verified_at": "2026-11-20T13:53:34.153963+00:00"
     },
     {
       "id": "cloudflare-enterprise-systems-developer-order-to-cash-https-boards-greenhouse-io-cloudflare-jobs-8224347-gh-jid-8224347",
@@ -1430,7 +1520,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8224347?gh_jid=8224347",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.322300+00:00"
+      "verified_at": "2026-11-20T13:53:34.155411+00:00"
     },
     {
       "id": "cloudflare-forward-deployed-engineer-professional-services-https-boards-greenhouse-io-cloudflare-jobs-8043305-gh-jid-8043305",
@@ -1445,22 +1535,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.324503+00:00"
-    },
-    {
-      "id": "cloudflare-global-commercial-attorney-public-sector-https-boards-greenhouse-io-cloudflare-jobs-8230670-gh-jid-8230670",
-      "title": "Global Commercial Attorney (Public Sector)",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Not stated",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Entry",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Available Locations:&nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p style=&quot;padding-left: 40px;&quot;&gt;Austin, TX&l",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8230670?gh_jid=8230670",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.325014+00:00"
+      "verified_at": "2026-11-20T13:53:34.157358+00:00"
     },
     {
       "id": "cloudflare-global-vendor-manager-data-center-infrastructure-https-boards-greenhouse-io-cloudflare-jobs-8328089-gh-jid-8328089",
@@ -1475,22 +1550,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8328089?gh_jid=8328089",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.325624+00:00"
-    },
-    {
-      "id": "cloudflare-hardware-systems-engineer-https-boards-greenhouse-io-cloudflare-jobs-8325821-gh-jid-8325821",
-      "title": "Hardware Systems Engineer",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Not stated",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Entry",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Available Locations: Austin&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About The Department&lt;/strong&gt;",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.326438+00:00"
+      "verified_at": "2026-11-20T13:53:34.158216+00:00"
     },
     {
       "id": "cloudflare-hardware-systems-engineer-https-boards-greenhouse-io-cloudflare-jobs-8223480-gh-jid-8223480",
@@ -1505,7 +1565,22 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8223480?gh_jid=8223480",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.326917+00:00"
+      "verified_at": "2026-11-20T13:53:34.158937+00:00"
+    },
+    {
+      "id": "cloudflare-hardware-systems-engineer-https-boards-greenhouse-io-cloudflare-jobs-8325821-gh-jid-8325821",
+      "title": "Hardware Systems Engineer",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Not stated",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Entry",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Available Locations: Austin&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About The Department&lt;/strong&gt;",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821",
+      "posted_at": "2026-11-09T19:03:42-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.159425+00:00"
     },
     {
       "id": "cloudflare-manager-presales-customer-engineering-https-boards-greenhouse-io-cloudflare-jobs-8140704-gh-jid-8140704",
@@ -1520,7 +1595,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8140704?gh_jid=8140704",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.330831+00:00"
+      "verified_at": "2026-11-20T13:53:34.162697+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-fsi-hong-kong-https-boards-greenhouse-io-cloudflare-jobs-7868936-gh-jid-7868936",
@@ -1535,7 +1610,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7868936?gh_jid=7868936",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.332518+00:00"
+      "verified_at": "2026-11-20T13:53:34.164316+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-indonesia-public-sector-https-boards-greenhouse-io-cloudflare-jobs-8332960-gh-jid-8332960",
@@ -1550,7 +1625,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8332960?gh_jid=8332960",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.332993+00:00"
+      "verified_at": "2026-11-20T13:53:34.164744+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-philippines-https-boards-greenhouse-io-cloudflare-jobs-8332956-gh-jid-8332956",
@@ -1565,7 +1640,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8332956?gh_jid=8332956",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.333475+00:00"
+      "verified_at": "2026-11-20T13:53:34.165178+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-public-sector-enterprise-singapore-https-boards-greenhouse-io-cloudflare-jobs-8155946-gh-jid-8155946",
@@ -1580,37 +1655,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8155946?gh_jid=8155946",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.333907+00:00"
-    },
-    {
-      "id": "cloudflare-network-deployment-engineer-https-boards-greenhouse-io-cloudflare-jobs-8099671-gh-jid-8099671",
-      "title": "Network Deployment Engineer",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Global",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Entry",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;Available Locations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Atlanta, US&lt;/li&gt;\n&lt;li&gt;Austin, US&lt;/li&gt;\n&lt;li&gt;Denver,",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8099671?gh_jid=8099671",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.335236+00:00"
-    },
-    {
-      "id": "cloudflare-network-deployment-engineer-apjc-https-boards-greenhouse-io-cloudflare-jobs-8088046-gh-jid-8088046",
-      "title": "Network Deployment Engineer - APJC",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Singapore",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Entry",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;Available Locations: Singapore or Sydney&lt;/strong&gt;&lt;/h4&gt;\n&lt;h4&gt;&lt;strong&gt;About the Team&lt;/",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8088046?gh_jid=8088046",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.335703+00:00"
+      "verified_at": "2026-11-20T13:53:34.165567+00:00"
     },
     {
       "id": "cloudflare-network-security-engineer-https-boards-greenhouse-io-cloudflare-jobs-8081027-gh-jid-8081027",
@@ -1625,7 +1670,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8081027?gh_jid=8081027",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.336576+00:00"
+      "verified_at": "2026-11-20T13:53:34.167977+00:00"
     },
     {
       "id": "cloudflare-partner-engineer-spain-https-boards-greenhouse-io-cloudflare-jobs-8185854-gh-jid-8185854",
@@ -1640,7 +1685,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8185854?gh_jid=8185854",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.337737+00:00"
+      "verified_at": "2026-11-20T13:53:34.169067+00:00"
     },
     {
       "id": "cloudflare-partner-solutions-architect-service-providers-location-new-york-new-jersey-dallas-denver-or-seattle-https-boards-greenhouse-io-cloudflare-jobs-804982",
@@ -1655,7 +1700,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8049820?gh_jid=8049820",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.338280+00:00"
+      "verified_at": "2026-11-20T13:53:34.169578+00:00"
     },
     {
       "id": "cloudflare-presales-customer-engineer-https-boards-greenhouse-io-cloudflare-jobs-8333371-gh-jid-8333371",
@@ -1670,7 +1715,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8333371?gh_jid=8333371",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.339612+00:00"
+      "verified_at": "2026-11-20T13:53:34.170775+00:00"
     },
     {
       "id": "cloudflare-principal-campaign-manager-https-boards-greenhouse-io-cloudflare-jobs-8227192-gh-jid-8227192",
@@ -1685,7 +1730,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8227192?gh_jid=8227192",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.340104+00:00"
+      "verified_at": "2026-11-20T13:53:34.171238+00:00"
     },
     {
       "id": "cloudflare-principal-customer-engineer-majors-https-boards-greenhouse-io-cloudflare-jobs-7967144-gh-jid-7967144",
@@ -1700,7 +1745,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7967144?gh_jid=7967144",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.340678+00:00"
+      "verified_at": "2026-11-20T13:53:34.171734+00:00"
     },
     {
       "id": "cloudflare-principal-oracle-supply-chain-lead-https-boards-greenhouse-io-cloudflare-jobs-8157770-gh-jid-8157770",
@@ -1715,7 +1760,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8157770?gh_jid=8157770",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.343776+00:00"
+      "verified_at": "2026-11-20T13:53:34.174687+00:00"
     },
     {
       "id": "cloudflare-principal-partner-engineer-anz-https-boards-greenhouse-io-cloudflare-jobs-8225546-gh-jid-8225546",
@@ -1730,7 +1775,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8225546?gh_jid=8225546",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.344184+00:00"
+      "verified_at": "2026-11-20T13:53:34.175060+00:00"
     },
     {
       "id": "cloudflare-principal-partner-engineer-japan-based-in-tokyo-https-boards-greenhouse-io-cloudflare-jobs-8172554-gh-jid-8172554",
@@ -1745,7 +1790,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172554?gh_jid=8172554",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.344635+00:00"
+      "verified_at": "2026-11-20T13:53:34.175472+00:00"
     },
     {
       "id": "cloudflare-principal-software-engineer-distributed-systems-config-test-deployment-https-boards-greenhouse-io-cloudflare-jobs-8038898-gh-jid-8038898",
@@ -1760,7 +1805,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8038898?gh_jid=8038898",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.345403+00:00"
+      "verified_at": "2026-11-20T13:53:34.176153+00:00"
     },
     {
       "id": "cloudflare-principal-solutions-architect-public-sector-federal-https-boards-greenhouse-io-cloudflare-jobs-8131824-gh-jid-8131824",
@@ -1775,7 +1820,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8131824?gh_jid=8131824",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.347080+00:00"
+      "verified_at": "2026-11-20T13:53:34.177684+00:00"
     },
     {
       "id": "cloudflare-principal-solutions-architect-saarc-https-boards-greenhouse-io-cloudflare-jobs-8219990-gh-jid-8219990",
@@ -1790,7 +1835,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8219990?gh_jid=8219990",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.347475+00:00"
+      "verified_at": "2026-11-20T13:53:34.178033+00:00"
     },
     {
       "id": "cloudflare-project-coordinator-professional-services-https-boards-greenhouse-io-cloudflare-jobs-8331522-gh-jid-8331522",
@@ -1805,7 +1850,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8331522?gh_jid=8331522",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.349992+00:00"
+      "verified_at": "2026-11-20T13:53:34.180916+00:00"
     },
     {
       "id": "cloudflare-rack-integration-operations-engineer-https-boards-greenhouse-io-cloudflare-jobs-8267826-gh-jid-8267826",
@@ -1820,7 +1865,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8267826?gh_jid=8267826",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.351179+00:00"
+      "verified_at": "2026-11-20T13:53:34.182008+00:00"
     },
     {
       "id": "cloudflare-senior-account-executive-digital-native-https-boards-greenhouse-io-cloudflare-jobs-7421848-gh-jid-7421848",
@@ -1835,7 +1880,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7421848?gh_jid=7421848",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.353505+00:00"
+      "verified_at": "2026-11-20T13:53:34.184331+00:00"
     },
     {
       "id": "cloudflare-senior-account-executive-strategic-pursuits-anz-https-boards-greenhouse-io-cloudflare-jobs-8220063-gh-jid-8220063",
@@ -1850,7 +1895,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8220063?gh_jid=8220063",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.354891+00:00"
+      "verified_at": "2026-11-20T13:53:34.185834+00:00"
     },
     {
       "id": "cloudflare-senior-account-executive-strategic-pursuits-fsi-saarc-based-in-bangalore-https-boards-greenhouse-io-cloudflare-jobs-8222299-gh-jid-8222299",
@@ -1865,7 +1910,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8222299?gh_jid=8222299",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.355371+00:00"
+      "verified_at": "2026-11-20T13:53:34.186281+00:00"
     },
     {
       "id": "cloudflare-senior-certificate-authority-architect-https-boards-greenhouse-io-cloudflare-jobs-8263503-gh-jid-8263503",
@@ -1880,7 +1925,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8263503?gh_jid=8263503",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.355980+00:00"
+      "verified_at": "2026-11-20T13:53:34.186842+00:00"
     },
     {
       "id": "cloudflare-senior-commercial-account-executive-https-boards-greenhouse-io-cloudflare-jobs-7478874-gh-jid-7478874",
@@ -1895,7 +1940,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7478874?gh_jid=7478874",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.356526+00:00"
+      "verified_at": "2026-11-20T13:53:34.187350+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-bogot-colombia-https-boards-greenhouse-io-cloudflare-jobs-8174249-gh-jid-8174249",
@@ -1910,7 +1955,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8174249?gh_jid=8174249",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.358763+00:00"
+      "verified_at": "2026-11-20T13:53:34.189379+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-central-eastern-europe-hebrew-speaking-https-boards-greenhouse-io-cloudflare-jobs-7978788-gh-jid-7978788",
@@ -1925,7 +1970,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7978788?gh_jid=7978788",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.360200+00:00"
+      "verified_at": "2026-11-20T13:53:34.190653+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-central-eastern-europe-russian-speaking-https-boards-greenhouse-io-cloudflare-jobs-8312664-gh-jid-8312664",
@@ -1940,7 +1985,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8312664?gh_jid=8312664",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.360733+00:00"
+      "verified_at": "2026-11-20T13:53:34.191164+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-enterprise-ai-bay-area-https-boards-greenhouse-io-cloudflare-jobs-8077614-gh-jid-8077614",
@@ -1955,7 +2000,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8077614?gh_jid=8077614",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.362101+00:00"
+      "verified_at": "2026-11-20T13:53:34.192408+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-enterprise-san-francisco-https-boards-greenhouse-io-cloudflare-jobs-8332012-gh-jid-8332012",
@@ -1970,7 +2015,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8332012?gh_jid=8332012",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.362710+00:00"
+      "verified_at": "2026-11-20T13:53:34.192938+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-hong-kong-pre-sales-https-boards-greenhouse-io-cloudflare-jobs-8097947-gh-jid-8097947",
@@ -1985,7 +2030,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8097947?gh_jid=8097947",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.363091+00:00"
+      "verified_at": "2026-11-20T13:53:34.193285+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-indonesia-https-boards-greenhouse-io-cloudflare-jobs-8239175-gh-jid-8239175",
@@ -2000,7 +2045,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8239175?gh_jid=8239175",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.363614+00:00"
+      "verified_at": "2026-11-20T13:53:34.193760+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-japan-https-boards-greenhouse-io-cloudflare-jobs-8146536-gh-jid-8146536",
@@ -2015,7 +2060,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8146536?gh_jid=8146536",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.363974+00:00"
+      "verified_at": "2026-11-20T13:53:34.194094+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-https-boards-greenhouse-io-cloudflare-jobs-8200786-gh-jid-8200786",
@@ -2030,7 +2075,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8200786?gh_jid=8200786",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.364526+00:00"
+      "verified_at": "2026-11-20T13:53:34.194599+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-ne-https-boards-greenhouse-io-cloudflare-jobs-8300941-gh-jid-8300941",
@@ -2045,7 +2090,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8300941?gh_jid=8300941",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.365681+00:00"
+      "verified_at": "2026-11-20T13:53:34.195643+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-nyc-https-boards-greenhouse-io-cloudflare-jobs-7980647-gh-jid-7980647",
@@ -2060,7 +2105,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7980647?gh_jid=7980647",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.366307+00:00"
+      "verified_at": "2026-11-20T13:53:34.196234+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-pittsburgh-pa-https-boards-greenhouse-io-cloudflare-jobs-8172153-gh-jid-8172153",
@@ -2075,7 +2120,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172153?gh_jid=8172153",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.366931+00:00"
+      "verified_at": "2026-11-20T13:53:34.196796+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-raleigh-nc-https-boards-greenhouse-io-cloudflare-jobs-7864156-gh-jid-7864156",
@@ -2090,7 +2135,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7864156?gh_jid=7864156",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.367539+00:00"
+      "verified_at": "2026-11-20T13:53:34.197363+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-southwest-https-boards-greenhouse-io-cloudflare-jobs-8172200-gh-jid-8172200",
@@ -2105,7 +2150,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172200?gh_jid=8172200",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.368160+00:00"
+      "verified_at": "2026-11-20T13:53:34.197925+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-tola-https-boards-greenhouse-io-cloudflare-jobs-8268965-gh-jid-8268965",
@@ -2120,7 +2165,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8268965?gh_jid=8268965",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.368728+00:00"
+      "verified_at": "2026-11-20T13:53:34.198445+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-montreal-qc-https-boards-greenhouse-io-cloudflare-jobs-8335624-gh-jid-8335624",
@@ -2135,7 +2180,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8335624?gh_jid=8335624",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.369475+00:00"
+      "verified_at": "2026-11-20T13:53:34.199145+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-cincinnati-oh-https-boards-greenhouse-io-cloudflare-jobs-7954702-gh-jid-7954702",
@@ -2150,7 +2195,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7954702?gh_jid=7954702",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.370093+00:00"
+      "verified_at": "2026-11-20T13:53:34.199700+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-houston-tx-https-boards-greenhouse-io-cloudflare-jobs-8172117-gh-jid-8172117",
@@ -2165,7 +2210,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172117?gh_jid=8172117",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.370721+00:00"
+      "verified_at": "2026-11-20T13:53:34.200292+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-la-https-boards-greenhouse-io-cloudflare-jobs-8171942-gh-jid-8171942",
@@ -2180,22 +2225,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8171942?gh_jid=8171942",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.371289+00:00"
-    },
-    {
-      "id": "cloudflare-senior-customer-engineer-named-minnesota-https-boards-greenhouse-io-cloudflare-jobs-8121827-gh-jid-8121827",
-      "title": "Senior Customer Engineer, Named - Minnesota",
-      "company": "Cloudflare",
-      "location": "Distributed",
-      "country": "Usa",
-      "work_mode": "Not stated",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Minnesota&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;About the Role&lt;/h2&gt;\n&lt",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8121827?gh_jid=8121827",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.371761+00:00"
+      "verified_at": "2026-11-20T13:53:34.200804+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-new-york-city-https-boards-greenhouse-io-cloudflare-jobs-8247433-gh-jid-8247433",
@@ -2210,7 +2240,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8247433?gh_jid=8247433",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.372338+00:00"
+      "verified_at": "2026-11-20T13:53:34.201337+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-portland-or-https-boards-greenhouse-io-cloudflare-jobs-8268259-gh-jid-8268259",
@@ -2225,7 +2255,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8268259?gh_jid=8268259",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.372908+00:00"
+      "verified_at": "2026-11-20T13:53:34.201845+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-seattle-https-boards-greenhouse-io-cloudflare-jobs-8172023-gh-jid-8172023",
@@ -2240,7 +2270,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172023?gh_jid=8172023",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.373516+00:00"
+      "verified_at": "2026-11-20T13:53:34.202448+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-pre-sales-east-china-https-boards-greenhouse-io-cloudflare-jobs-8147190-gh-jid-8147190",
@@ -2255,22 +2285,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.373930+00:00"
-    },
-    {
-      "id": "cloudflare-senior-customer-engineer-public-sector-federal-https-boards-greenhouse-io-cloudflare-jobs-8131833-gh-jid-8131833",
-      "title": "Senior Customer Engineer, Public Sector Federal",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Not stated",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations: Washington, D.C.&lt;/h2&gt;\n&lt;h2&gt;What you’ll do as a Senior Customer Engineer, Public Sector Feder",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8131833?gh_jid=8131833",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.374513+00:00"
+      "verified_at": "2026-11-20T13:53:34.202841+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-public-sector-federal-https-boards-greenhouse-io-cloudflare-jobs-7530475-gh-jid-7530475",
@@ -2285,7 +2300,22 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.375076+00:00"
+      "verified_at": "2026-11-20T13:53:34.203373+00:00"
+    },
+    {
+      "id": "cloudflare-senior-customer-engineer-public-sector-federal-https-boards-greenhouse-io-cloudflare-jobs-8131833-gh-jid-8131833",
+      "title": "Senior Customer Engineer, Public Sector Federal",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Not stated",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations: Washington, D.C.&lt;/h2&gt;\n&lt;h2&gt;What you’ll do as a Senior Customer Engineer, Public Sector Feder",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8131833?gh_jid=8131833",
+      "posted_at": "2026-11-09T19:03:42-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.203881+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-santiago-chile-https-boards-greenhouse-io-cloudflare-jobs-8174368-gh-jid-8174368",
@@ -2300,7 +2330,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8174368?gh_jid=8174368",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.375982+00:00"
+      "verified_at": "2026-11-20T13:53:34.204734+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-saudi-arabia-https-boards-greenhouse-io-cloudflare-jobs-8170564-gh-jid-8170564",
@@ -2315,7 +2345,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8170564?gh_jid=8170564",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.376522+00:00"
+      "verified_at": "2026-11-20T13:53:34.205224+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-sled-tx-austin-dallas-or-houston-https-boards-greenhouse-io-cloudflare-jobs-8238015-gh-jid-8238015",
@@ -2330,7 +2360,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8238015?gh_jid=8238015",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.376965+00:00"
+      "verified_at": "2026-11-20T13:53:34.205626+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-start-up-ai-https-boards-greenhouse-io-cloudflare-jobs-8185549-gh-jid-8185549",
@@ -2345,7 +2375,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8185549?gh_jid=8185549",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.377648+00:00"
+      "verified_at": "2026-11-20T13:53:34.206250+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-strategic-pursuits-apac-based-in-india-https-boards-greenhouse-io-cloudflare-jobs-8248554-gh-jid-8248554",
@@ -2360,7 +2390,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8248554?gh_jid=8248554",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.378008+00:00"
+      "verified_at": "2026-11-20T13:53:34.206581+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-strategic-pursuits-apac-based-in-singapore-https-boards-greenhouse-io-cloudflare-jobs-8248543-gh-jid-8248543",
@@ -2375,7 +2405,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8248543?gh_jid=8248543",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.378419+00:00"
+      "verified_at": "2026-11-20T13:53:34.206954+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-strategic-san-francisco-https-boards-greenhouse-io-cloudflare-jobs-8246078-gh-jid-8246078",
@@ -2390,7 +2420,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8246078?gh_jid=8246078",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.379001+00:00"
+      "verified_at": "2026-11-20T13:53:34.207492+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-strategic-seattle-wa-https-boards-greenhouse-io-cloudflare-jobs-8335069-gh-jid-8335069",
@@ -2405,7 +2435,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8335069?gh_jid=8335069",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.379628+00:00"
+      "verified_at": "2026-11-20T13:53:34.208062+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-sub-saharan-africa-https-boards-greenhouse-io-cloudflare-jobs-7698880-gh-jid-7698880",
@@ -2420,7 +2450,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7698880?gh_jid=7698880",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.380154+00:00"
+      "verified_at": "2026-11-20T13:53:34.208560+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-turkey-https-boards-greenhouse-io-cloudflare-jobs-8170534-gh-jid-8170534",
@@ -2435,7 +2465,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8170534?gh_jid=8170534",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.382315+00:00"
+      "verified_at": "2026-11-20T13:53:34.210500+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-vietnam-https-boards-greenhouse-io-cloudflare-jobs-8158620-gh-jid-8158620",
@@ -2450,7 +2480,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8158620?gh_jid=8158620",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.384598+00:00"
+      "verified_at": "2026-11-20T13:53:34.211754+00:00"
     },
     {
       "id": "cloudflare-senior-customer-reliability-engineer-https-boards-greenhouse-io-cloudflare-jobs-8331153-gh-jid-8331153",
@@ -2465,7 +2495,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8331153?gh_jid=8331153",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.385775+00:00"
+      "verified_at": "2026-11-20T13:53:34.212820+00:00"
     },
     {
       "id": "cloudflare-senior-digital-native-account-executive-spain-https-boards-greenhouse-io-cloudflare-jobs-7272028-gh-jid-7272028",
@@ -2480,7 +2510,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7272028?gh_jid=7272028",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.386681+00:00"
+      "verified_at": "2026-11-20T13:53:34.213678+00:00"
     },
     {
       "id": "cloudflare-senior-enterprise-systems-developer-procurement-systems-https-boards-greenhouse-io-cloudflare-jobs-8223672-gh-jid-8223672",
@@ -2495,37 +2525,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8223672?gh_jid=8223672",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.388895+00:00"
-    },
-    {
-      "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8173707-gh-jid-8173707",
-      "title": "Senior Forward Deployed Engineer",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Not stated",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;San Francisco, US&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;About the Role&lt;/h2",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8173707?gh_jid=8173707",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.389612+00:00"
-    },
-    {
-      "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8265704-gh-jid-8265704",
-      "title": "Senior Forward Deployed Engineer",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Sweden",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Sweden&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;About the Role&lt;/h2&gt;\n&lt;p&",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8265704?gh_jid=8265704",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.390564+00:00"
+      "verified_at": "2026-11-20T13:53:34.215941+00:00"
     },
     {
       "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8206674-gh-jid-8206674",
@@ -2540,7 +2540,37 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8206674?gh_jid=8206674",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.391003+00:00"
+      "verified_at": "2026-11-20T13:53:34.216532+00:00"
+    },
+    {
+      "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8173707-gh-jid-8173707",
+      "title": "Senior Forward Deployed Engineer",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Not stated",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;San Francisco, US&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;About the Role&lt;/h2",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8173707?gh_jid=8173707",
+      "posted_at": "2026-11-09T19:03:42-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.216955+00:00"
+    },
+    {
+      "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8265704-gh-jid-8265704",
+      "title": "Senior Forward Deployed Engineer",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Sweden",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Sweden&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;About the Role&lt;/h2&gt;\n&lt;p&",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8265704?gh_jid=8265704",
+      "posted_at": "2026-11-09T19:03:42-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-20T13:53:34.217348+00:00"
     },
     {
       "id": "cloudflare-senior-forward-deployed-infrastructure-engineer-https-boards-greenhouse-io-cloudflare-jobs-8256332-gh-jid-8256332",
@@ -2555,7 +2585,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.391631+00:00"
+      "verified_at": "2026-11-20T13:53:34.218377+00:00"
     },
     {
       "id": "cloudflare-senior-lead-management-specialist-https-boards-greenhouse-io-cloudflare-jobs-8186255-gh-jid-8186255",
@@ -2570,7 +2600,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8186255?gh_jid=8186255",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.393128+00:00"
+      "verified_at": "2026-11-20T13:53:34.219790+00:00"
     },
     {
       "id": "cloudflare-senior-machine-learning-engineer-https-boards-greenhouse-io-cloudflare-jobs-8042034-gh-jid-8042034",
@@ -2585,7 +2615,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.394071+00:00"
+      "verified_at": "2026-11-20T13:53:34.220662+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8173393-gh-jid-8173393",
@@ -2600,7 +2630,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8173393?gh_jid=8173393",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.395195+00:00"
+      "verified_at": "2026-11-20T13:53:34.221124+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-apple-san-francisco-bay-area-https-boards-greenhouse-io-cloudflare-jobs-8274111-gh-jid-8274111",
@@ -2615,7 +2645,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8274111?gh_jid=8274111",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.395691+00:00"
+      "verified_at": "2026-11-20T13:53:34.221561+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-chicago-https-boards-greenhouse-io-cloudflare-jobs-8099002-gh-jid-8099002",
@@ -2630,7 +2660,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8099002?gh_jid=8099002",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.396249+00:00"
+      "verified_at": "2026-11-20T13:53:34.222091+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-dallas-https-boards-greenhouse-io-cloudflare-jobs-8084082-gh-jid-8084082",
@@ -2645,7 +2675,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8084082?gh_jid=8084082",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.396774+00:00"
+      "verified_at": "2026-11-20T13:53:34.222576+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-google-san-francisco-bay-area-https-boards-greenhouse-io-cloudflare-jobs-8241766-gh-jid-8241766",
@@ -2660,7 +2690,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8241766?gh_jid=8241766",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.397799+00:00"
+      "verified_at": "2026-11-20T13:53:34.223526+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-ibm-new-york-https-boards-greenhouse-io-cloudflare-jobs-8233692-gh-jid-8233692",
@@ -2675,7 +2705,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8233692?gh_jid=8233692",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.398317+00:00"
+      "verified_at": "2026-11-20T13:53:34.224007+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-meta-san-francisco-bay-area-https-boards-greenhouse-io-cloudflare-jobs-8274112-gh-jid-8274112",
@@ -2690,7 +2720,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8274112?gh_jid=8274112",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.398801+00:00"
+      "verified_at": "2026-11-20T13:53:34.224452+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-minnesota-https-boards-greenhouse-io-cloudflare-jobs-8239834-gh-jid-8239834",
@@ -2705,7 +2735,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8239834?gh_jid=8239834",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.399369+00:00"
+      "verified_at": "2026-11-20T13:53:34.224970+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-new-york-https-boards-greenhouse-io-cloudflare-jobs-7747326-gh-jid-7747326",
@@ -2720,7 +2750,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7747326?gh_jid=7747326",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.399894+00:00"
+      "verified_at": "2026-11-20T13:53:34.226049+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-phoenix-https-boards-greenhouse-io-cloudflare-jobs-8327958-gh-jid-8327958",
@@ -2735,7 +2765,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8327958?gh_jid=8327958",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.400364+00:00"
+      "verified_at": "2026-11-20T13:53:34.226492+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-toronto-https-boards-greenhouse-io-cloudflare-jobs-7474034-gh-jid-7474034",
@@ -2750,7 +2780,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7474034?gh_jid=7474034",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.400810+00:00"
+      "verified_at": "2026-11-20T13:53:34.226910+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-wisconsin-https-boards-greenhouse-io-cloudflare-jobs-8239900-gh-jid-8239900",
@@ -2765,7 +2795,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8239900?gh_jid=8239900",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.401287+00:00"
+      "verified_at": "2026-11-20T13:53:34.227379+00:00"
     },
     {
       "id": "cloudflare-senior-manager-customer-engineering-central-eastern-europe-israel-hebrew-speaking-https-boards-greenhouse-io-cloudflare-jobs-8312693-gh-jid-8312693",
@@ -2780,22 +2810,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8312693?gh_jid=8312693",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.402745+00:00"
-    },
-    {
-      "id": "cloudflare-senior-manager-infrastructure-operations-and-compliance-https-boards-greenhouse-io-cloudflare-jobs-8163076-gh-jid-8163076",
-      "title": "Senior Manager, Infrastructure Operations and Compliance",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Not stated",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Available Locations: &lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Austin&nbsp;&lt;/strong&gt;&l",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8163076?gh_jid=8163076",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.404563+00:00"
+      "verified_at": "2026-11-20T13:53:34.229416+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8180521-gh-jid-8180521",
@@ -2810,7 +2825,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8180521?gh_jid=8180521",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.405301+00:00"
+      "verified_at": "2026-11-20T13:53:34.231167+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-ankara-public-sector-https-boards-greenhouse-io-cloudflare-jobs-8169785-gh-jid-8169785",
@@ -2825,7 +2840,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8169785?gh_jid=8169785",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.406226+00:00"
+      "verified_at": "2026-11-20T13:53:34.231818+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-bengaluru-https-boards-greenhouse-io-cloudflare-jobs-7405115-gh-jid-7405115",
@@ -2840,7 +2855,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7405115?gh_jid=7405115",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.406783+00:00"
+      "verified_at": "2026-11-20T13:53:34.232152+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-buffalo-https-boards-greenhouse-io-cloudflare-jobs-8201823-gh-jid-8201823",
@@ -2855,7 +2870,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8201823?gh_jid=8201823",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.407566+00:00"
+      "verified_at": "2026-11-20T13:53:34.232704+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-dallas-https-boards-greenhouse-io-cloudflare-jobs-7799240-gh-jid-7799240",
@@ -2870,7 +2885,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7799240?gh_jid=7799240",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.408749+00:00"
+      "verified_at": "2026-11-20T13:53:34.233768+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-federal-government-ottawa-https-boards-greenhouse-io-cloudflare-jobs-8109416-gh-jid-8109416",
@@ -2885,7 +2900,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8109416?gh_jid=8109416",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.409669+00:00"
+      "verified_at": "2026-11-20T13:53:34.234605+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-fedgov-civilian-agencies-canberra-https-boards-greenhouse-io-cloudflare-jobs-8121029-gh-jid-8121029",
@@ -2900,7 +2915,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8121029?gh_jid=8121029",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.410121+00:00"
+      "verified_at": "2026-11-20T13:53:34.235029+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-israel-digital-natives-enterprise-https-boards-greenhouse-io-cloudflare-jobs-8207632-gh-jid-8207632",
@@ -2915,7 +2930,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8207632?gh_jid=8207632",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.411262+00:00"
+      "verified_at": "2026-11-20T13:53:34.236105+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-majors-sydney-https-boards-greenhouse-io-cloudflare-jobs-8121020-gh-jid-8121020",
@@ -2930,7 +2945,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8121020?gh_jid=8121020",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.411820+00:00"
+      "verified_at": "2026-11-20T13:53:34.236650+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-mumbai-https-boards-greenhouse-io-cloudflare-jobs-8127559-gh-jid-8127559",
@@ -2945,7 +2960,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8127559?gh_jid=8127559",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.412830+00:00"
+      "verified_at": "2026-11-20T13:53:34.237582+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-new-york-https-boards-greenhouse-io-cloudflare-jobs-8202120-gh-jid-8202120",
@@ -2960,7 +2975,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8202120?gh_jid=8202120",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.414025+00:00"
+      "verified_at": "2026-11-20T13:53:34.238682+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-northern-emirates-https-boards-greenhouse-io-cloudflare-jobs-8179389-gh-jid-8179389",
@@ -2975,7 +2990,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8179389?gh_jid=8179389",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.415064+00:00"
+      "verified_at": "2026-11-20T13:53:34.239637+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-northern-va-dc-metro-https-boards-greenhouse-io-cloudflare-jobs-8112200-gh-jid-8112200",
@@ -2990,7 +3005,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8112200?gh_jid=8112200",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.415703+00:00"
+      "verified_at": "2026-11-20T13:53:34.240233+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-phoenix-https-boards-greenhouse-io-cloudflare-jobs-8211796-gh-jid-8211796",
@@ -3005,7 +3020,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8211796?gh_jid=8211796",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.416233+00:00"
+      "verified_at": "2026-11-20T13:53:34.240726+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-saudi-arabia-https-boards-greenhouse-io-cloudflare-jobs-8258771-gh-jid-8258771",
@@ -3020,7 +3035,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8258771?gh_jid=8258771",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.416987+00:00"
+      "verified_at": "2026-11-20T13:53:34.241418+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-uae-public-sector-https-boards-greenhouse-io-cloudflare-jobs-8179405-gh-jid-8179405",
@@ -3035,7 +3050,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8179405?gh_jid=8179405",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.417656+00:00"
+      "verified_at": "2026-11-20T13:53:34.242030+00:00"
     },
     {
       "id": "cloudflare-senior-named-customer-engineer-uki-https-boards-greenhouse-io-cloudflare-jobs-7515882-gh-jid-7515882",
@@ -3050,22 +3065,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7515882?gh_jid=7515882",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.418249+00:00"
-    },
-    {
-      "id": "cloudflare-senior-network-engineer-https-boards-greenhouse-io-cloudflare-jobs-7992903-gh-jid-7992903",
-      "title": "Senior Network Engineer",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Not stated",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Austin, US&lt;/li&gt;\n&lt;li&gt;Atlanta, GA&lt;/li&gt;\n&lt;li&gt;Denver,",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7992903?gh_jid=7992903",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.418819+00:00"
+      "verified_at": "2026-11-20T13:53:34.242596+00:00"
     },
     {
       "id": "cloudflare-senior-oracle-epm-specialist-https-boards-greenhouse-io-cloudflare-jobs-7978887-gh-jid-7978887",
@@ -3080,7 +3080,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7978887?gh_jid=7978887",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.419290+00:00"
+      "verified_at": "2026-11-20T13:53:34.243565+00:00"
     },
     {
       "id": "cloudflare-senior-oracle-security-and-ai-engineer-https-boards-greenhouse-io-cloudflare-jobs-8221248-gh-jid-8221248",
@@ -3095,7 +3095,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8221248?gh_jid=8221248",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.419708+00:00"
+      "verified_at": "2026-11-20T13:53:34.243935+00:00"
     },
     {
       "id": "cloudflare-senior-presales-customer-engineer-based-in-canberra-https-boards-greenhouse-io-cloudflare-jobs-7956845-gh-jid-7956845",
@@ -3110,7 +3110,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7956845?gh_jid=7956845",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.420606+00:00"
+      "verified_at": "2026-11-20T13:53:34.244634+00:00"
     },
     {
       "id": "cloudflare-senior-product-manager-agentic-search-https-boards-greenhouse-io-cloudflare-jobs-8336559-gh-jid-8336559",
@@ -3125,7 +3125,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8336559?gh_jid=8336559",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.421548+00:00"
+      "verified_at": "2026-11-20T13:53:34.245541+00:00"
     },
     {
       "id": "cloudflare-senior-product-manager-email-security-https-boards-greenhouse-io-cloudflare-jobs-8173954-gh-jid-8173954",
@@ -3140,7 +3140,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8173954?gh_jid=8173954",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.422175+00:00"
+      "verified_at": "2026-11-20T13:53:34.246148+00:00"
     },
     {
       "id": "cloudflare-senior-professional-services-engineer-https-boards-greenhouse-io-cloudflare-jobs-8025521-gh-jid-8025521",
@@ -3155,7 +3155,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8025521?gh_jid=8025521",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.424407+00:00"
+      "verified_at": "2026-11-20T13:53:34.248276+00:00"
     },
     {
       "id": "cloudflare-senior-sales-manager-digital-native-japan-based-in-tokyo-https-boards-greenhouse-io-cloudflare-jobs-7767743-gh-jid-7767743",
@@ -3170,7 +3170,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7767743?gh_jid=7767743",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.426020+00:00"
+      "verified_at": "2026-11-20T13:53:34.249823+00:00"
     },
     {
       "id": "cloudflare-senior-sase-sales-specialist-https-boards-greenhouse-io-cloudflare-jobs-7534033-gh-jid-7534033",
@@ -3185,7 +3185,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7534033?gh_jid=7534033",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.426514+00:00"
+      "verified_at": "2026-11-20T13:53:34.250276+00:00"
     },
     {
       "id": "cloudflare-senior-software-engineer-agentic-discovery-https-boards-greenhouse-io-cloudflare-jobs-8262000-gh-jid-8262000",
@@ -3200,7 +3200,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8262000?gh_jid=8262000",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.427799+00:00"
+      "verified_at": "2026-11-20T13:53:34.251523+00:00"
     },
     {
       "id": "cloudflare-senior-software-engineer-kubernetes-platform-https-boards-greenhouse-io-cloudflare-jobs-8263016-gh-jid-8263016",
@@ -3215,7 +3215,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.429809+00:00"
+      "verified_at": "2026-11-20T13:53:34.253644+00:00"
     },
     {
       "id": "cloudflare-senior-software-engineer-security-platform-https-boards-greenhouse-io-cloudflare-jobs-8243201-gh-jid-8243201",
@@ -3230,22 +3230,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8243201?gh_jid=8243201",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.431175+00:00"
-    },
-    {
-      "id": "cloudflare-senior-specialist-solutions-engineer-cloudflare-one-russian-or-hebrew-speaking-https-boards-greenhouse-io-cloudflare-jobs-8264043-gh-jid-8264043",
-      "title": "Senior Specialist Solutions Engineer, Cloudflare One - Russian or Hebrew speaking",
-      "company": "Cloudflare",
-      "location": "Distributed",
-      "country": "Not stated",
-      "work_mode": "Not stated",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Available Location: London, Munich, Amsterdam, Paris, Lisbon&lt;/strong&gt;&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8264043?gh_jid=8264043",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.432623+00:00"
+      "verified_at": "2026-11-20T13:53:34.255079+00:00"
     },
     {
       "id": "cloudflare-senior-strategic-partnerships-manager-https-boards-greenhouse-io-cloudflare-jobs-8244876-gh-jid-8244876",
@@ -3260,7 +3245,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8244876?gh_jid=8244876",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.433088+00:00"
+      "verified_at": "2026-11-20T13:53:34.256927+00:00"
     },
     {
       "id": "cloudflare-senior-technical-program-manager-https-boards-greenhouse-io-cloudflare-jobs-8255561-gh-jid-8255561",
@@ -3275,7 +3260,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8255561?gh_jid=8255561",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.436957+00:00"
+      "verified_at": "2026-11-20T13:53:34.261055+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-beijing-https-boards-greenhouse-io-cloudflare-jobs-8181043-gh-jid-8181043",
@@ -3290,7 +3275,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8181043?gh_jid=8181043",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.438360+00:00"
+      "verified_at": "2026-11-20T13:53:34.262404+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-north-africa-https-boards-greenhouse-io-cloudflare-jobs-8258919-gh-jid-8258919",
@@ -3305,7 +3290,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8258919?gh_jid=8258919",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.441443+00:00"
+      "verified_at": "2026-11-20T13:53:34.265675+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-oman-https-boards-greenhouse-io-cloudflare-jobs-8179461-gh-jid-8179461",
@@ -3320,7 +3305,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8179461?gh_jid=8179461",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.442333+00:00"
+      "verified_at": "2026-11-20T13:53:34.266527+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-shanghai-https-boards-greenhouse-io-cloudflare-jobs-8323918-gh-jid-8323918",
@@ -3335,7 +3320,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8323918?gh_jid=8323918",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.443366+00:00"
+      "verified_at": "2026-11-20T13:53:34.267582+00:00"
     },
     {
       "id": "cloudflare-services-sales-manager-professional-services-https-boards-greenhouse-io-cloudflare-jobs-8274879-gh-jid-8274879",
@@ -3350,7 +3335,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8274879?gh_jid=8274879",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.444252+00:00"
+      "verified_at": "2026-11-20T13:53:34.268488+00:00"
     },
     {
       "id": "cloudflare-services-sales-manager-professional-services-https-boards-greenhouse-io-cloudflare-jobs-8274068-gh-jid-8274068",
@@ -3365,7 +3350,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8274068?gh_jid=8274068",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.444748+00:00"
+      "verified_at": "2026-11-20T13:53:34.268956+00:00"
     },
     {
       "id": "cloudflare-services-sales-manager-professional-services-sydney-https-boards-greenhouse-io-cloudflare-jobs-8283875-gh-jid-8283875",
@@ -3380,7 +3365,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8283875?gh_jid=8283875",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.445133+00:00"
+      "verified_at": "2026-11-20T13:53:34.269327+00:00"
     },
     {
       "id": "cloudflare-software-engineer-agentic-discovery-https-boards-greenhouse-io-cloudflare-jobs-8264687-gh-jid-8264687",
@@ -3395,7 +3380,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8264687?gh_jid=8264687",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.445925+00:00"
+      "verified_at": "2026-11-20T13:53:34.270065+00:00"
     },
     {
       "id": "cloudflare-sr-director-developer-gtm-https-boards-greenhouse-io-cloudflare-jobs-8303150-gh-jid-8303150",
@@ -3410,7 +3395,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8303150?gh_jid=8303150",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.448457+00:00"
+      "verified_at": "2026-11-20T13:53:34.273403+00:00"
     },
     {
       "id": "cloudflare-staff-principal-software-engineer-security-platform-https-boards-greenhouse-io-cloudflare-jobs-7053411-gh-jid-7053411",
@@ -3425,7 +3410,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7053411?gh_jid=7053411",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.449559+00:00"
+      "verified_at": "2026-11-20T13:53:34.274454+00:00"
     },
     {
       "id": "cloudflare-staff-software-engineer-integrated-network-strategy-https-boards-greenhouse-io-cloudflare-jobs-8157281-gh-jid-8157281",
@@ -3440,7 +3425,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8157281?gh_jid=8157281",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.450162+00:00"
+      "verified_at": "2026-11-20T13:53:34.275013+00:00"
     },
     {
       "id": "cloudflare-strategy-m-a-lead-https-boards-greenhouse-io-cloudflare-jobs-8188127-gh-jid-8188127",
@@ -3455,7 +3440,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8188127?gh_jid=8188127",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.451258+00:00"
+      "verified_at": "2026-11-20T13:53:34.276031+00:00"
     },
     {
       "id": "cloudflare-supply-chain-program-manager-rack-integration-https-boards-greenhouse-io-cloudflare-jobs-8214726-gh-jid-8214726",
@@ -3470,7 +3455,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8214726?gh_jid=8214726",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.451823+00:00"
+      "verified_at": "2026-11-20T13:53:34.276565+00:00"
     },
     {
       "id": "cloudflare-technical-support-engineer-application-services-https-boards-greenhouse-io-cloudflare-jobs-8229993-gh-jid-8229993",
@@ -3485,7 +3470,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8229993?gh_jid=8229993",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.455387+00:00"
+      "verified_at": "2026-11-20T13:53:34.280542+00:00"
     },
     {
       "id": "cloudflare-technical-support-engineer-zero-trust-https-boards-greenhouse-io-cloudflare-jobs-8329758-gh-jid-8329758",
@@ -3500,7 +3485,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8329758?gh_jid=8329758",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.456656+00:00"
+      "verified_at": "2026-11-20T13:53:34.282180+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-digital-native-indonesia-https-boards-greenhouse-io-cloudflare-jobs-8168940-gh-jid-8168940",
@@ -3515,7 +3500,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8168940?gh_jid=8168940",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.458494+00:00"
+      "verified_at": "2026-11-20T13:53:34.283507+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-qatar-https-boards-greenhouse-io-cloudflare-jobs-8045309-gh-jid-8045309",
@@ -3530,7 +3515,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8045309?gh_jid=8045309",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.460255+00:00"
+      "verified_at": "2026-11-20T13:53:34.285123+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-saudi-arabia-startups-https-boards-greenhouse-io-cloudflare-jobs-7857793-gh-jid-7857793",
@@ -3545,7 +3530,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7857793?gh_jid=7857793",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.460931+00:00"
+      "verified_at": "2026-11-20T13:53:34.285756+00:00"
     },
     {
       "id": "cloudflare-vice-president-cloudflare-one-gtm-https-boards-greenhouse-io-cloudflare-jobs-8172411-gh-jid-8172411",
@@ -3560,7 +3545,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172411?gh_jid=8172411",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.461865+00:00"
+      "verified_at": "2026-11-20T13:53:34.286676+00:00"
     },
     {
       "id": "cloudflare-vulnerability-defense-software-engineer-cloudforce-one-https-boards-greenhouse-io-cloudflare-jobs-8245503-gh-jid-8245503",
@@ -3575,7 +3560,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245503?gh_jid=8245503",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.462674+00:00"
+      "verified_at": "2026-11-20T13:53:34.287477+00:00"
     },
     {
       "id": "figma-researcher-ai-evaluations-https-boards-greenhouse-io-figma-jobs-6242701004-gh-jid-6242701004",
@@ -3590,7 +3575,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6242701004?gh_jid=6242701004",
       "posted_at": "2026-11-09T16:53:01-05:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.608469+00:00"
+      "verified_at": "2026-11-20T13:53:34.385653+00:00"
     },
     {
       "id": "figma-ai-applied-scientist-https-boards-greenhouse-io-figma-jobs-5707966004-gh-jid-5707966004",
@@ -3605,7 +3590,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.599900+00:00"
+      "verified_at": "2026-11-20T13:53:34.375752+00:00"
     },
     {
       "id": "figma-forward-deployed-engineer-https-boards-greenhouse-io-figma-jobs-6158162004-gh-jid-6158162004",
@@ -3620,7 +3605,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.603750+00:00"
+      "verified_at": "2026-11-20T13:53:34.380183+00:00"
     },
     {
       "id": "figma-software-engineer-ai-platforms-https-boards-greenhouse-io-figma-jobs-5691886004-gh-jid-5691886004",
@@ -3635,7 +3620,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.610349+00:00"
+      "verified_at": "2026-11-20T13:53:34.387720+00:00"
     },
     {
       "id": "figma-software-engineer-data-infrastructure-https-boards-greenhouse-io-figma-jobs-5551686004-gh-jid-5551686004",
@@ -3650,7 +3635,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.611181+00:00"
+      "verified_at": "2026-11-20T13:53:34.388579+00:00"
     },
     {
       "id": "figma-software-engineer-distributed-systems-https-boards-greenhouse-io-figma-jobs-5552549004-gh-jid-5552549004",
@@ -3665,7 +3650,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.611701+00:00"
+      "verified_at": "2026-11-20T13:53:34.389075+00:00"
     },
     {
       "id": "figma-software-engineer-machine-learning-https-boards-greenhouse-io-figma-jobs-5551532004-gh-jid-5551532004",
@@ -3680,7 +3665,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.612592+00:00"
+      "verified_at": "2026-11-20T13:53:34.389979+00:00"
     },
     {
       "id": "figma-technical-program-manager-infrastructure-https-boards-greenhouse-io-figma-jobs-6020719004-gh-jid-6020719004",
@@ -3695,7 +3680,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6020719004?gh_jid=6020719004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-19T14:10:56.614203+00:00"
+      "verified_at": "2026-11-20T13:53:34.391687+00:00"
     }
   ]
 }
