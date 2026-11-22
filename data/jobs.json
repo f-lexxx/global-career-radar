@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T13:16:13.230521+00:00",
+  "updated_at": "2026-11-22T13:07:56.127739+00:00",
   "sources_checked": 8,
   "source_errors": [
     "Notion: HTTP Error 404: Not Found",
@@ -7,6 +7,36 @@
     "Remote: HTTP Error 404: Not Found"
   ],
   "jobs": [
+    {
+      "id": "cloudflare-principal-solutions-architect-apjc-developer-platform-mandarin-speaking-https-boards-greenhouse-io-cloudflare-jobs-8179387-gh-jid-8179387",
+      "title": "Principal Solutions Architect, APJC (Developer Platform) - Mandarin Speaking",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Usa",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Lead / Executive",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;About Developer GTM&lt;/strong&gt;&lt;/h",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8179387?gh_jid=8179387",
+      "posted_at": "2026-11-21T22:50:50-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-22T13:07:54.149884+00:00"
+    },
+    {
+      "id": "cloudflare-senior-platform-engineer-replicate-https-boards-greenhouse-io-cloudflare-jobs-8406944-gh-jid-8406944",
+      "title": "Senior Platform Engineer, Replicate",
+      "company": "Cloudflare",
+      "location": "In-Office",
+      "country": "Uk",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Available Locations: Austin, TX | London, UK (Hybrid)&lt;/strong&gt;&lt;/h3&gt;\n&lt;h3 data-path-to-node=&quot",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944",
+      "posted_at": "2026-11-21T12:47:15-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-22T13:07:54.246485+00:00"
+    },
     {
       "id": "cloudflare-staff-software-engineer-integrated-network-strategy-https-boards-greenhouse-io-cloudflare-jobs-8157281-gh-jid-8157281",
       "title": "Staff Software Engineer - Integrated Network Strategy",
@@ -20,7 +50,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8157281?gh_jid=8157281",
       "posted_at": "2026-11-20T20:11:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.102627+00:00"
+      "verified_at": "2026-11-22T13:07:54.288488+00:00"
     },
     {
       "id": "cloudflare-head-of-startups-developer-gtm-https-boards-greenhouse-io-cloudflare-jobs-8400599-gh-jid-8400599",
@@ -35,7 +65,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8400599?gh_jid=8400599",
       "posted_at": "2026-11-20T19:58:25-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.002641+00:00"
+      "verified_at": "2026-11-22T13:07:54.126684+00:00"
     },
     {
       "id": "cloudflare-head-of-majors-developer-gtm-https-boards-greenhouse-io-cloudflare-jobs-8400689-gh-jid-8400689",
@@ -50,7 +80,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8400689?gh_jid=8400689",
       "posted_at": "2026-11-20T19:44:54-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.001888+00:00"
+      "verified_at": "2026-11-22T13:07:54.125370+00:00"
     },
     {
       "id": "cloudflare-head-of-scale-ups-developer-gtm-https-boards-greenhouse-io-cloudflare-jobs-8400651-gh-jid-8400651",
@@ -65,7 +95,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8400651?gh_jid=8400651",
       "posted_at": "2026-11-20T19:44:45-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.002229+00:00"
+      "verified_at": "2026-11-22T13:07:54.125987+00:00"
     },
     {
       "id": "cloudflare-senior-strategic-account-executive-financials-north-carolina-https-boards-greenhouse-io-cloudflare-jobs-8402860-gh-jid-8402860",
@@ -80,7 +110,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8402860?gh_jid=8402860",
       "posted_at": "2026-11-20T19:26:15-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.087065+00:00"
+      "verified_at": "2026-11-22T13:07:54.263738+00:00"
     },
     {
       "id": "cloudflare-senior-strategic-account-executive-financials-new-york-https-boards-greenhouse-io-cloudflare-jobs-8402822-gh-jid-8402822",
@@ -95,7 +125,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8402822?gh_jid=8402822",
       "posted_at": "2026-11-20T19:22:05-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.086636+00:00"
+      "verified_at": "2026-11-22T13:07:54.263066+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-michigan-https-boards-greenhouse-io-cloudflare-jobs-8404438-gh-jid-8404438",
@@ -110,7 +140,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8404438?gh_jid=8404438",
       "posted_at": "2026-11-20T19:17:14-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.058374+00:00"
+      "verified_at": "2026-11-22T13:07:54.216842+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-atlanta-https-boards-greenhouse-io-cloudflare-jobs-8402761-gh-jid-8402761",
@@ -125,7 +155,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8402761?gh_jid=8402761",
       "posted_at": "2026-11-20T19:14:58-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.055430+00:00"
+      "verified_at": "2026-11-22T13:07:54.212110+00:00"
     },
     {
       "id": "cloudflare-senior-software-engineer-agentic-discovery-https-boards-greenhouse-io-cloudflare-jobs-8262000-gh-jid-8262000",
@@ -140,7 +170,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8262000?gh_jid=8262000",
       "posted_at": "2026-11-20T15:15:04-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.082329+00:00"
+      "verified_at": "2026-11-22T13:07:54.256270+00:00"
     },
     {
       "id": "cloudflare-software-engineer-agentic-discovery-https-boards-greenhouse-io-cloudflare-jobs-8264687-gh-jid-8264687",
@@ -155,7 +185,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8264687?gh_jid=8264687",
       "posted_at": "2026-11-20T15:15:04-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.098156+00:00"
+      "verified_at": "2026-11-22T13:07:54.281289+00:00"
     },
     {
       "id": "twilio-software-engineer-l2-supernetwork-https-job-boards-greenhouse-io-twilio-jobs-8405809",
@@ -170,7 +200,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8405809",
       "posted_at": "2026-11-20T15:05:22-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.482241+00:00"
+      "verified_at": "2026-11-22T13:07:55.104157+00:00"
     },
     {
       "id": "twilio-software-engineer-l2-supernetwork-https-job-boards-greenhouse-io-twilio-jobs-8405807",
@@ -185,7 +215,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8405807",
       "posted_at": "2026-11-20T15:01:40-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.482506+00:00"
+      "verified_at": "2026-11-22T13:07:55.104599+00:00"
     },
     {
       "id": "cloudflare-sr-procurement-operations-lead-infrastructure-https-boards-greenhouse-io-cloudflare-jobs-8404184-gh-jid-8404184",
@@ -200,7 +230,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8404184?gh_jid=8404184",
       "posted_at": "2026-11-20T14:45:11-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.101209+00:00"
+      "verified_at": "2026-11-22T13:07:54.286288+00:00"
     },
     {
       "id": "twilio-senior-engineer-security-automation-https-job-boards-greenhouse-io-twilio-jobs-8405805",
@@ -215,7 +245,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8405805",
       "posted_at": "2026-11-20T14:23:22-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.480210+00:00"
+      "verified_at": "2026-11-22T13:07:55.100885+00:00"
     },
     {
       "id": "twilio-principal-engineer-cloud-security-https-job-boards-greenhouse-io-twilio-jobs-8405813",
@@ -230,7 +260,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8405813",
       "posted_at": "2026-11-20T14:22:00-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.477974+00:00"
+      "verified_at": "2026-11-22T13:07:55.097304+00:00"
     },
     {
       "id": "cloudflare-hardware-systems-engineer-https-boards-greenhouse-io-cloudflare-jobs-8325821-gh-jid-8325821",
@@ -245,7 +275,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821",
       "posted_at": "2026-11-20T13:46:39-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.000666+00:00"
+      "verified_at": "2026-11-22T13:07:54.123341+00:00"
     },
     {
       "id": "airtable-senior-solutions-architect-https-job-boards-greenhouse-io-airtable-jobs-8498915002",
@@ -260,7 +290,7 @@
       "url": "https://job-boards.greenhouse.io/airtable/jobs/8498915002",
       "posted_at": "2026-11-20T11:59:34-05:00",
       "source_name": "Airtable official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.629942+00:00"
+      "verified_at": "2026-11-22T13:07:55.153558+00:00"
     },
     {
       "id": "twilio-strategic-account-executive-https-job-boards-greenhouse-io-twilio-jobs-8405824",
@@ -275,7 +305,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8405824",
       "posted_at": "2026-11-20T11:34:15-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.485567+00:00"
+      "verified_at": "2026-11-22T13:07:55.109507+00:00"
     },
     {
       "id": "twilio-applications-engineer-2-https-job-boards-greenhouse-io-twilio-jobs-7781659",
@@ -290,7 +320,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7781659",
       "posted_at": "2026-11-20T10:30:41-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.472412+00:00"
+      "verified_at": "2026-11-22T13:07:55.088050+00:00"
     },
     {
       "id": "twilio-presales-engineer-https-job-boards-greenhouse-io-twilio-jobs-8064090",
@@ -305,7 +335,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8064090",
       "posted_at": "2026-11-20T10:29:32-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.477166+00:00"
+      "verified_at": "2026-11-22T13:07:55.095952+00:00"
     },
     {
       "id": "twilio-presales-engineer-https-job-boards-greenhouse-io-twilio-jobs-8243073",
@@ -320,7 +350,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8243073",
       "posted_at": "2026-11-20T10:29:08-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.477421+00:00"
+      "verified_at": "2026-11-22T13:07:55.096389+00:00"
     },
     {
       "id": "twilio-staff-software-engineer-l4-https-job-boards-greenhouse-io-twilio-jobs-8240288",
@@ -335,7 +365,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8240288",
       "posted_at": "2026-11-20T10:29:05-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.484203+00:00"
+      "verified_at": "2026-11-22T13:07:55.107330+00:00"
     },
     {
       "id": "twilio-devops-engineer-observability-https-job-boards-greenhouse-io-twilio-jobs-8108771",
@@ -350,7 +380,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8108771",
       "posted_at": "2026-11-20T10:28:57-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.473625+00:00"
+      "verified_at": "2026-11-22T13:07:55.089789+00:00"
     },
     {
       "id": "twilio-presales-engineer-https-job-boards-greenhouse-io-twilio-jobs-8157509",
@@ -365,7 +395,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8157509",
       "posted_at": "2026-11-20T10:28:32-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.477690+00:00"
+      "verified_at": "2026-11-22T13:07:55.096839+00:00"
     },
     {
       "id": "twilio-executive-assistant-3-https-job-boards-greenhouse-io-twilio-jobs-8281950",
@@ -380,7 +410,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8281950",
       "posted_at": "2026-11-20T10:24:12-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.474499+00:00"
+      "verified_at": "2026-11-22T13:07:55.091400+00:00"
     },
     {
       "id": "twilio-staff-software-engineer-l4-https-job-boards-greenhouse-io-twilio-jobs-8319434",
@@ -395,7 +425,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8319434",
       "posted_at": "2026-11-20T10:23:16-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.484480+00:00"
+      "verified_at": "2026-11-22T13:07:55.107782+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-bengaluru-https-boards-greenhouse-io-cloudflare-jobs-8391880-gh-jid-8391880",
@@ -410,7 +440,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8391880?gh_jid=8391880",
       "posted_at": "2026-11-19T23:47:10-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.092224+00:00"
+      "verified_at": "2026-11-22T13:07:54.271804+00:00"
     },
     {
       "id": "cloudflare-network-deployment-engineer-apjc-https-boards-greenhouse-io-cloudflare-jobs-8088046-gh-jid-8088046",
@@ -425,7 +455,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8088046?gh_jid=8088046",
       "posted_at": "2026-11-19T20:36:50-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.008376+00:00"
+      "verified_at": "2026-11-22T13:07:54.136023+00:00"
     },
     {
       "id": "cloudflare-professional-services-consultant-application-security-https-boards-greenhouse-io-cloudflare-jobs-8393924-gh-jid-8393924",
@@ -440,7 +470,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8393924?gh_jid=8393924",
       "posted_at": "2026-11-19T17:05:16-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.019165+00:00"
+      "verified_at": "2026-11-22T13:07:54.153340+00:00"
     },
     {
       "id": "twilio-software-engineer-platform-engineering-https-job-boards-greenhouse-io-twilio-jobs-8385593",
@@ -455,7 +485,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8385593",
       "posted_at": "2026-11-19T15:26:38-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.482926+00:00"
+      "verified_at": "2026-11-22T13:07:55.105264+00:00"
     },
     {
       "id": "cloudflare-commercial-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8392838-gh-jid-8392838",
@@ -470,7 +500,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8392838?gh_jid=8392838",
       "posted_at": "2026-11-19T15:18:55-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.985123+00:00"
+      "verified_at": "2026-11-22T13:07:54.098324+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8392916-gh-jid-8392916",
@@ -485,7 +515,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8392916?gh_jid=8392916",
       "posted_at": "2026-11-19T15:08:50-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.005533+00:00"
+      "verified_at": "2026-11-22T13:07:54.131385+00:00"
     },
     {
       "id": "cloudflare-senior-specialist-solutions-engineer-cloudflare-one-russian-or-hebrew-speaking-https-boards-greenhouse-io-cloudflare-jobs-8264043-gh-jid-8264043",
@@ -500,7 +530,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8264043?gh_jid=8264043",
       "posted_at": "2026-11-19T11:35:07-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.086189+00:00"
+      "verified_at": "2026-11-22T13:07:54.262379+00:00"
     },
     {
       "id": "cloudflare-senior-network-engineer-https-boards-greenhouse-io-cloudflare-jobs-7992903-gh-jid-7992903",
@@ -515,7 +545,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7992903?gh_jid=7992903",
       "posted_at": "2026-11-19T11:23:40-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.075089+00:00"
+      "verified_at": "2026-11-22T13:07:54.244632+00:00"
     },
     {
       "id": "cloudflare-network-deployment-engineer-https-boards-greenhouse-io-cloudflare-jobs-8099671-gh-jid-8099671",
@@ -530,7 +560,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8099671?gh_jid=8099671",
       "posted_at": "2026-11-19T11:21:23-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.008017+00:00"
+      "verified_at": "2026-11-22T13:07:54.135423+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-new-business-https-boards-greenhouse-io-cloudflare-jobs-8393538-gh-jid-8393538",
@@ -545,7 +575,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8393538?gh_jid=8393538",
       "posted_at": "2026-11-19T11:09:19-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.059357+00:00"
+      "verified_at": "2026-11-22T13:07:54.218378+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-manager-https-boards-greenhouse-io-cloudflare-jobs-8393704-gh-jid-8393704",
@@ -560,7 +590,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8393704?gh_jid=8393704",
       "posted_at": "2026-11-19T11:09:02-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.061518+00:00"
+      "verified_at": "2026-11-22T13:07:54.221857+00:00"
     },
     {
       "id": "cloudflare-software-engineer-platforms-productivity-https-boards-greenhouse-io-cloudflare-jobs-8168623-gh-jid-8168623",
@@ -575,7 +605,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623",
       "posted_at": "2026-11-19T10:54:50-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.099770+00:00"
+      "verified_at": "2026-11-22T13:07:54.284008+00:00"
     },
     {
       "id": "cloudflare-senior-sales-manager-central-eastern-europe-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8219962-gh-jid-8219962",
@@ -590,7 +620,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8219962?gh_jid=8219962",
       "posted_at": "2026-11-19T04:54:48-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.080509+00:00"
+      "verified_at": "2026-11-22T13:07:54.253490+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-india-https-boards-greenhouse-io-cloudflare-jobs-8326536-gh-jid-8326536",
@@ -605,7 +635,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8326536?gh_jid=8326536",
       "posted_at": "2026-11-19T00:17:06-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.093571+00:00"
+      "verified_at": "2026-11-22T13:07:54.273993+00:00"
     },
     {
       "id": "cloudflare-enterprise-architect-toronto-canada-https-boards-greenhouse-io-cloudflare-jobs-8319377-gh-jid-8319377",
@@ -620,7 +650,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8319377?gh_jid=8319377",
       "posted_at": "2026-11-18T16:53:11-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.996981+00:00"
+      "verified_at": "2026-11-22T13:07:54.117259+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-vancouver-bc-https-boards-greenhouse-io-cloudflare-jobs-8223736-gh-jid-8223736",
@@ -635,7 +665,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8223736?gh_jid=8223736",
       "posted_at": "2026-11-18T14:52:33-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.046148+00:00"
+      "verified_at": "2026-11-22T13:07:54.197484+00:00"
     },
     {
       "id": "cloudflare-senior-product-manager-observability-https-boards-greenhouse-io-cloudflare-jobs-8370842-gh-jid-8370842",
@@ -650,7 +680,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8370842?gh_jid=8370842",
       "posted_at": "2026-11-18T14:38:08-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.078279+00:00"
+      "verified_at": "2026-11-22T13:07:54.250106+00:00"
     },
     {
       "id": "cloudflare-hardware-systems-engineer-tooling-https-boards-greenhouse-io-cloudflare-jobs-8370313-gh-jid-8370313",
@@ -665,7 +695,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8370313?gh_jid=8370313",
       "posted_at": "2026-11-18T12:27:48-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.001534+00:00"
+      "verified_at": "2026-11-22T13:07:54.124756+00:00"
     },
     {
       "id": "cloudflare-strategic-account-director-developer-platform-https-boards-greenhouse-io-cloudflare-jobs-8375925-gh-jid-8375925",
@@ -680,7 +710,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8375925?gh_jid=8375925",
       "posted_at": "2026-11-18T12:27:46-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.102960+00:00"
+      "verified_at": "2026-11-22T13:07:54.289043+00:00"
     },
     {
       "id": "cloudflare-senior-system-engineer-https-boards-greenhouse-io-cloudflare-jobs-8164600-gh-jid-8164600",
@@ -695,7 +725,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8164600?gh_jid=8164600",
       "posted_at": "2026-11-18T12:09:53-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.087768+00:00"
+      "verified_at": "2026-11-22T13:07:54.264837+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-israel-https-boards-greenhouse-io-cloudflare-jobs-8155990-gh-jid-8155990",
@@ -710,7 +740,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8155990?gh_jid=8155990",
       "posted_at": "2026-11-18T09:56:57-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.110185+00:00"
+      "verified_at": "2026-11-22T13:07:54.300728+00:00"
     },
     {
       "id": "cloudflare-network-operations-engineer-https-boards-greenhouse-io-cloudflare-jobs-8311366-gh-jid-8311366",
@@ -725,7 +755,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8311366?gh_jid=8311366",
       "posted_at": "2026-11-18T09:45:29-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.008724+00:00"
+      "verified_at": "2026-11-22T13:07:54.136604+00:00"
     },
     {
       "id": "cloudflare-customer-engineering-specialist-network-services-https-boards-greenhouse-io-cloudflare-jobs-7525971-gh-jid-7525971",
@@ -740,7 +770,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7525971?gh_jid=7525971",
       "posted_at": "2026-11-18T09:22:35-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.986481+00:00"
+      "verified_at": "2026-11-22T13:07:54.100465+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-https-boards-greenhouse-io-cloudflare-jobs-7610071-gh-jid-7610071",
@@ -755,7 +785,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7610071?gh_jid=7610071",
       "posted_at": "2026-11-18T07:48:16-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.026535+00:00"
+      "verified_at": "2026-11-22T13:07:54.165345+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-nordics-https-boards-greenhouse-io-cloudflare-jobs-7668318-gh-jid-7668318",
@@ -770,7 +800,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7668318?gh_jid=7668318",
       "posted_at": "2026-11-18T05:59:04-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.071586+00:00"
+      "verified_at": "2026-11-22T13:07:54.239222+00:00"
     },
     {
       "id": "cloudflare-technical-support-engineer-zero-trust-https-boards-greenhouse-io-cloudflare-jobs-8229998-gh-jid-8229998",
@@ -785,7 +815,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8229998?gh_jid=8229998",
       "posted_at": "2026-11-17T21:26:41-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.108597+00:00"
+      "verified_at": "2026-11-22T13:07:54.297073+00:00"
     },
     {
       "id": "cloudflare-hardware-systems-engineer-ai-hardware-https-boards-greenhouse-io-cloudflare-jobs-8325834-gh-jid-8325834",
@@ -800,7 +830,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8325834?gh_jid=8325834",
       "posted_at": "2026-11-17T17:53:32-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.001091+00:00"
+      "verified_at": "2026-11-22T13:07:54.124046+00:00"
     },
     {
       "id": "twilio-strategic-account-executive-4-https-job-boards-greenhouse-io-twilio-jobs-8356811",
@@ -815,7 +845,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8356811",
       "posted_at": "2026-11-17T16:23:27-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.486153+00:00"
+      "verified_at": "2026-11-22T13:07:55.110484+00:00"
     },
     {
       "id": "twilio-senior-account-executive-https-job-boards-greenhouse-io-twilio-jobs-8327434",
@@ -830,7 +860,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8327434",
       "posted_at": "2026-11-17T16:23:26-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.479433+00:00"
+      "verified_at": "2026-11-22T13:07:55.099631+00:00"
     },
     {
       "id": "twilio-account-executive-4-https-job-boards-greenhouse-io-twilio-jobs-8249615",
@@ -845,7 +875,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8249615",
       "posted_at": "2026-11-17T16:23:25-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.471885+00:00"
+      "verified_at": "2026-11-22T13:07:55.087327+00:00"
     },
     {
       "id": "twilio-senior-manager-customer-success-https-job-boards-greenhouse-io-twilio-jobs-8213826",
@@ -860,7 +890,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8213826",
       "posted_at": "2026-11-17T16:23:25-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.481364+00:00"
+      "verified_at": "2026-11-22T13:07:55.102715+00:00"
     },
     {
       "id": "twilio-strategic-account-executive-4-regverts-https-job-boards-greenhouse-io-twilio-jobs-8261705",
@@ -875,7 +905,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8261705",
       "posted_at": "2026-11-17T16:23:25-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.486474+00:00"
+      "verified_at": "2026-11-22T13:07:55.111007+00:00"
     },
     {
       "id": "twilio-tech-lead-sr-principal-engineer-l6-https-job-boards-greenhouse-io-twilio-jobs-7966928",
@@ -890,7 +920,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/7966928",
       "posted_at": "2026-11-17T16:23:24-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.486854+00:00"
+      "verified_at": "2026-11-22T13:07:55.111615+00:00"
     },
     {
       "id": "twilio-new-business-account-executive-https-job-boards-greenhouse-io-twilio-jobs-6372770",
@@ -905,7 +935,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/6372770",
       "posted_at": "2026-11-17T16:23:23-05:00",
       "source_name": "Twilio official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:04.476045+00:00"
+      "verified_at": "2026-11-22T13:07:55.094038+00:00"
     },
     {
       "id": "figma-technical-program-manager-ai-https-boards-greenhouse-io-figma-jobs-6261622004-gh-jid-6261622004",
@@ -920,7 +950,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6261622004?gh_jid=6261622004",
       "posted_at": "2026-11-17T13:49:54-05:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.298621+00:00"
+      "verified_at": "2026-11-22T13:07:54.397284+00:00"
     },
     {
       "id": "cloudflare-senior-manager-customer-engineering-uki-https-boards-greenhouse-io-cloudflare-jobs-7761342-gh-jid-7761342",
@@ -935,7 +965,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7761342?gh_jid=7761342",
       "posted_at": "2026-11-17T13:13:14-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.063210+00:00"
+      "verified_at": "2026-11-22T13:07:54.225908+00:00"
     },
     {
       "id": "cloudflare-sales-manager-iberia-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8385432-gh-jid-8385432",
@@ -950,7 +980,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8385432?gh_jid=8385432",
       "posted_at": "2026-11-17T12:13:47-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.022268+00:00"
+      "verified_at": "2026-11-22T13:07:54.158233+00:00"
     },
     {
       "id": "cloudflare-senior-software-engineer-https-boards-greenhouse-io-cloudflare-jobs-8383586-gh-jid-8383586",
@@ -965,7 +995,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8383586?gh_jid=8383586",
       "posted_at": "2026-11-17T10:45:54-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.081585+00:00"
+      "verified_at": "2026-11-22T13:07:54.255146+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-central-eastern-europe-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-7735965-gh-jid-7735965",
@@ -980,7 +1010,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7735965?gh_jid=7735965",
       "posted_at": "2026-11-17T07:04:13-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.066279+00:00"
+      "verified_at": "2026-11-22T13:07:54.230414+00:00"
     },
     {
       "id": "cloudflare-senior-manager-customer-engineering-https-boards-greenhouse-io-cloudflare-jobs-8370855-gh-jid-8370855",
@@ -995,7 +1025,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8370855?gh_jid=8370855",
       "posted_at": "2026-11-17T06:19:31-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.062275+00:00"
+      "verified_at": "2026-11-22T13:07:54.223427+00:00"
     },
     {
       "id": "cloudflare-senior-solutions-architect-apjc-developer-platform-india-market-https-boards-greenhouse-io-cloudflare-jobs-8169689-gh-jid-8169689",
@@ -1010,7 +1040,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8169689?gh_jid=8169689",
       "posted_at": "2026-11-17T03:03:05-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.085710+00:00"
+      "verified_at": "2026-11-22T13:07:54.261623+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-toronto-canada-https-boards-greenhouse-io-cloudflare-jobs-8226556-gh-jid-8226556",
@@ -1025,7 +1055,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8226556?gh_jid=8226556",
       "posted_at": "2026-11-16T12:46:38-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.045047+00:00"
+      "verified_at": "2026-11-22T13:07:54.195690+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-toronto-canada-https-boards-greenhouse-io-cloudflare-jobs-8223359-gh-jid-8223359",
@@ -1040,7 +1070,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8223359?gh_jid=8223359",
       "posted_at": "2026-11-16T12:45:36-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.044426+00:00"
+      "verified_at": "2026-11-22T13:07:54.194633+00:00"
     },
     {
       "id": "cloudflare-principal-customer-engineer-toronto-canada-https-boards-greenhouse-io-cloudflare-jobs-8223319-gh-jid-8223319",
@@ -1055,7 +1085,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8223319?gh_jid=8223319",
       "posted_at": "2026-11-16T12:40:00-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.012811+00:00"
+      "verified_at": "2026-11-22T13:07:54.143279+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-calgary-ab-https-boards-greenhouse-io-cloudflare-jobs-7778747-gh-jid-7778747",
@@ -1070,7 +1100,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7778747?gh_jid=7778747",
       "posted_at": "2026-11-16T12:38:51-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.028204+00:00"
+      "verified_at": "2026-11-22T13:07:54.168077+00:00"
     },
     {
       "id": "cloudflare-senior-linux-engineer-https-boards-greenhouse-io-cloudflare-jobs-8368421-gh-jid-8368421",
@@ -1085,7 +1115,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8368421?gh_jid=8368421",
       "posted_at": "2026-11-16T11:40:14-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.053791+00:00"
+      "verified_at": "2026-11-22T13:07:54.209523+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8076958-gh-jid-8076958",
@@ -1100,22 +1130,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8076958?gh_jid=8076958",
       "posted_at": "2026-11-16T08:20:01-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.029468+00:00"
-    },
-    {
-      "id": "cloudflare-principal-solutions-architect-apjc-developer-platform-mandarin-speaking-https-boards-greenhouse-io-cloudflare-jobs-8179387-gh-jid-8179387",
-      "title": "Principal Solutions Architect, APJC (Developer Platform) - Mandarin Speaking",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Usa",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Lead / Executive",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Location:&lt;/strong&gt; Singapore&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;About Developer GTM&lt;/strong&gt;&lt;/h",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8179387?gh_jid=8179387",
-      "posted_at": "2026-11-14T02:15:15-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.017036+00:00"
+      "verified_at": "2026-11-22T13:07:54.170221+00:00"
     },
     {
       "id": "cloudflare-data-engineer-https-boards-greenhouse-io-cloudflare-jobs-8055118-gh-jid-8055118",
@@ -1130,7 +1145,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118",
       "posted_at": "2026-11-13T14:33:55-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.990838+00:00"
+      "verified_at": "2026-11-22T13:07:54.107269+00:00"
     },
     {
       "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8385867-gh-jid-8385867",
@@ -1145,7 +1160,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8385867?gh_jid=8385867",
       "posted_at": "2026-11-13T11:37:06-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.050955+00:00"
+      "verified_at": "2026-11-22T13:07:54.206340+00:00"
     },
     {
       "id": "cloudflare-technical-support-engineer-zero-trust-https-boards-greenhouse-io-cloudflare-jobs-8352969-gh-jid-8352969",
@@ -1160,7 +1175,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8352969?gh_jid=8352969",
       "posted_at": "2026-11-13T10:23:32-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.108221+00:00"
+      "verified_at": "2026-11-22T13:07:54.297653+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-thailand-https-boards-greenhouse-io-cloudflare-jobs-8378849-gh-jid-8378849",
@@ -1175,7 +1190,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8378849?gh_jid=8378849",
       "posted_at": "2026-11-13T03:24:32-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.007357+00:00"
+      "verified_at": "2026-11-22T13:07:54.134353+00:00"
     },
     {
       "id": "cloudflare-forward-deployed-engineer-fde-professional-services-https-boards-greenhouse-io-cloudflare-jobs-7572075-gh-jid-7572075",
@@ -1190,7 +1205,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7572075?gh_jid=7572075",
       "posted_at": "2026-11-12T19:47:26-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.998567+00:00"
+      "verified_at": "2026-11-22T13:07:54.120006+00:00"
     },
     {
       "id": "cloudflare-senior-infrastructure-engineer-storage-platform-https-boards-greenhouse-io-cloudflare-jobs-7629805-gh-jid-7629805",
@@ -1205,7 +1220,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7629805?gh_jid=7629805",
       "posted_at": "2026-11-12T15:39:19-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.052918+00:00"
+      "verified_at": "2026-11-22T13:07:54.208191+00:00"
     },
     {
       "id": "cloudflare-senior-manager-field-marketing-https-boards-greenhouse-io-cloudflare-jobs-8304438-gh-jid-8304438",
@@ -1220,7 +1235,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8304438?gh_jid=8304438",
       "posted_at": "2026-11-12T13:07:52-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.063698+00:00"
+      "verified_at": "2026-11-22T13:07:54.226586+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-france-https-boards-greenhouse-io-cloudflare-jobs-7552575-gh-jid-7552575",
@@ -1235,7 +1250,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7552575?gh_jid=7552575",
       "posted_at": "2026-11-12T10:07:20-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.056762+00:00"
+      "verified_at": "2026-11-22T13:07:54.214233+00:00"
     },
     {
       "id": "cloudflare-product-security-engineer-https-boards-greenhouse-io-cloudflare-jobs-8102768-gh-jid-8102768",
@@ -1250,7 +1265,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8102768?gh_jid=8102768",
       "posted_at": "2026-11-12T06:13:28-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.018767+00:00"
+      "verified_at": "2026-11-22T13:07:54.152693+00:00"
     },
     {
       "id": "cloudflare-senior-product-security-engineer-https-boards-greenhouse-io-cloudflare-jobs-8079931-gh-jid-8079931",
@@ -1265,7 +1280,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8079931?gh_jid=8079931",
       "posted_at": "2026-11-12T06:12:24-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.079164+00:00"
+      "verified_at": "2026-11-22T13:07:54.251425+00:00"
     },
     {
       "id": "cloudflare-customer-engineer-korea-https-boards-greenhouse-io-cloudflare-jobs-8140643-gh-jid-8140643",
@@ -1280,7 +1295,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8140643?gh_jid=8140643",
       "posted_at": "2026-11-12T02:52:17-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.986904+00:00"
+      "verified_at": "2026-11-22T13:07:54.101160+00:00"
     },
     {
       "id": "cloudflare-enterprise-account-executive-thailand-https-boards-greenhouse-io-cloudflare-jobs-8378851-gh-jid-8378851",
@@ -1295,7 +1310,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8378851?gh_jid=8378851",
       "posted_at": "2026-11-12T00:58:21-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.996498+00:00"
+      "verified_at": "2026-11-22T13:07:54.116448+00:00"
     },
     {
       "id": "cloudflare-sr-technical-program-manager-https-boards-greenhouse-io-cloudflare-jobs-8248873-gh-jid-8248873",
@@ -1310,7 +1325,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8248873?gh_jid=8248873",
       "posted_at": "2026-11-11T17:31:49-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.101759+00:00"
+      "verified_at": "2026-11-22T13:07:54.287155+00:00"
     },
     {
       "id": "cloudflare-senior-customer-reliability-engineer-https-boards-greenhouse-io-cloudflare-jobs-8018536-gh-jid-8018536",
@@ -1325,7 +1340,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536",
       "posted_at": "2026-11-11T10:19:43-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.047093+00:00"
+      "verified_at": "2026-11-22T13:07:54.199022+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-kansas-city-https-boards-greenhouse-io-cloudflare-jobs-8373969-gh-jid-8373969",
@@ -1340,7 +1355,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8373969?gh_jid=8373969",
       "posted_at": "2026-11-11T10:03:52-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.094117+00:00"
+      "verified_at": "2026-11-22T13:07:54.274829+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-nebraska-dakota-s-https-boards-greenhouse-io-cloudflare-jobs-8373948-gh-jid-8373948",
@@ -1355,7 +1370,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8373948?gh_jid=8373948",
       "posted_at": "2026-11-11T10:03:34-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.070727+00:00"
+      "verified_at": "2026-11-22T13:07:54.237329+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8358480-gh-jid-8358480",
@@ -1370,7 +1385,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8358480?gh_jid=8358480",
       "posted_at": "2026-11-11T08:25:21-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.091279+00:00"
+      "verified_at": "2026-11-22T13:07:54.270463+00:00"
     },
     {
       "id": "cloudflare-vulnerability-management-engineer-https-boards-greenhouse-io-cloudflare-jobs-7579269-gh-jid-7579269",
@@ -1385,7 +1400,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7579269?gh_jid=7579269",
       "posted_at": "2026-11-11T06:40:48-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.113301+00:00"
+      "verified_at": "2026-11-22T13:07:54.305947+00:00"
     },
     {
       "id": "cloudflare-project-manager-government-projects-team-https-boards-greenhouse-io-cloudflare-jobs-8359292-gh-jid-8359292",
@@ -1400,7 +1415,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8359292?gh_jid=8359292",
       "posted_at": "2026-11-10T17:33:12-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.020695+00:00"
+      "verified_at": "2026-11-22T13:07:54.155709+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-digital-native-https-boards-greenhouse-io-cloudflare-jobs-8044712-gh-jid-8044712",
@@ -1415,7 +1430,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8044712?gh_jid=8044712",
       "posted_at": "2026-11-10T14:09:38-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.067238+00:00"
+      "verified_at": "2026-11-22T13:07:54.231909+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-israel-https-boards-greenhouse-io-cloudflare-jobs-7462504-gh-jid-7462504",
@@ -1430,7 +1445,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7462504?gh_jid=7462504",
       "posted_at": "2026-11-10T12:30:50-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.068472+00:00"
+      "verified_at": "2026-11-22T13:07:54.233848+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-ne-https-boards-greenhouse-io-cloudflare-jobs-8357683-gh-jid-8357683",
@@ -1445,7 +1460,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8357683?gh_jid=8357683",
       "posted_at": "2026-11-10T11:22:19-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.032522+00:00"
+      "verified_at": "2026-11-22T13:07:54.175978+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-mn-https-boards-greenhouse-io-cloudflare-jobs-8201404-gh-jid-8201404",
@@ -1460,7 +1475,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8201404?gh_jid=8201404",
       "posted_at": "2026-11-10T10:32:02-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.069878+00:00"
+      "verified_at": "2026-11-22T13:07:54.236031+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-https-boards-greenhouse-io-cloudflare-jobs-6528593-gh-jid-6528593",
@@ -1475,7 +1490,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/6528593?gh_jid=6528593",
       "posted_at": "2026-11-10T09:54:24-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.109221+00:00"
+      "verified_at": "2026-11-22T13:07:54.299203+00:00"
     },
     {
       "id": "cloudflare-forward-deployed-engineer-professional-services-https-boards-greenhouse-io-cloudflare-jobs-8043339-gh-jid-8043339",
@@ -1490,7 +1505,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8043339?gh_jid=8043339",
       "posted_at": "2026-11-10T09:50:47-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.999132+00:00"
+      "verified_at": "2026-11-22T13:07:54.120464+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-central-eastern-europe-digital-natives-https-boards-greenhouse-io-cloudflare-jobs-8203740-gh-jid-8203740",
@@ -1505,7 +1520,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8203740?gh_jid=8203740",
       "posted_at": "2026-11-10T08:28:40-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.092783+00:00"
+      "verified_at": "2026-11-22T13:07:54.272712+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-philippines-https-boards-greenhouse-io-cloudflare-jobs-8329671-gh-jid-8329671",
@@ -1520,7 +1535,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8329671?gh_jid=8329671",
       "posted_at": "2026-11-09T22:52:29-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.110677+00:00"
+      "verified_at": "2026-11-22T13:07:54.301512+00:00"
     },
     {
       "id": "cloudflare-associate-strategic-finance-investor-relations-https-boards-greenhouse-io-cloudflare-jobs-8287256-gh-jid-8287256",
@@ -1535,7 +1550,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8287256?gh_jid=8287256",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.982841+00:00"
+      "verified_at": "2026-11-22T13:07:54.094820+00:00"
     },
     {
       "id": "cloudflare-client-executive-sled-https-boards-greenhouse-io-cloudflare-jobs-8332361-gh-jid-8332361",
@@ -1550,7 +1565,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8332361?gh_jid=8332361",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.984674+00:00"
+      "verified_at": "2026-11-22T13:07:54.097589+00:00"
     },
     {
       "id": "cloudflare-customer-engineer-enterprise-austin-dallas-tx-or-raleigh-nc-https-boards-greenhouse-io-cloudflare-jobs-8329370-gh-jid-8329370",
@@ -1565,7 +1580,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8329370?gh_jid=8329370",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.986092+00:00"
+      "verified_at": "2026-11-22T13:07:54.099825+00:00"
     },
     {
       "id": "cloudflare-customer-reliability-engineer-https-boards-greenhouse-io-cloudflare-jobs-8317751-gh-jid-8317751",
@@ -1580,7 +1595,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8317751?gh_jid=8317751",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.988223+00:00"
+      "verified_at": "2026-11-22T13:07:54.103256+00:00"
     },
     {
       "id": "cloudflare-customer-solutions-strategy-lead-https-boards-greenhouse-io-cloudflare-jobs-8188498-gh-jid-8188498",
@@ -1595,7 +1610,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8188498?gh_jid=8188498",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.988893+00:00"
+      "verified_at": "2026-11-22T13:07:54.104303+00:00"
     },
     {
       "id": "cloudflare-data-center-network-operations-engineer-https-boards-greenhouse-io-cloudflare-jobs-8311376-gh-jid-8311376",
@@ -1610,7 +1625,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8311376?gh_jid=8311376",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.990031+00:00"
+      "verified_at": "2026-11-22T13:07:54.106043+00:00"
     },
     {
       "id": "cloudflare-deal-desk-manager-https-boards-greenhouse-io-cloudflare-jobs-8268432-gh-jid-8268432",
@@ -1625,7 +1640,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8268432?gh_jid=8268432",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.991614+00:00"
+      "verified_at": "2026-11-22T13:07:54.108464+00:00"
     },
     {
       "id": "cloudflare-developer-gtm-strategy-manager-technical-programs-https-boards-greenhouse-io-cloudflare-jobs-8191453-gh-jid-8191453",
@@ -1640,7 +1655,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8191453?gh_jid=8191453",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.992296+00:00"
+      "verified_at": "2026-11-22T13:07:54.109547+00:00"
     },
     {
       "id": "cloudflare-digital-natives-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8180715-gh-jid-8180715",
@@ -1655,7 +1670,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8180715?gh_jid=8180715",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.992662+00:00"
+      "verified_at": "2026-11-22T13:07:54.110219+00:00"
     },
     {
       "id": "cloudflare-digital-natives-account-executive-https-boards-greenhouse-io-cloudflare-jobs-7735836-gh-jid-7735836",
@@ -1670,7 +1685,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7735836?gh_jid=7735836",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.992923+00:00"
+      "verified_at": "2026-11-22T13:07:54.110707+00:00"
     },
     {
       "id": "cloudflare-digital-presales-customer-engineer-https-boards-greenhouse-io-cloudflare-jobs-8238758-gh-jid-8238758",
@@ -1685,7 +1700,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8238758?gh_jid=8238758",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.993345+00:00"
+      "verified_at": "2026-11-22T13:07:54.111403+00:00"
     },
     {
       "id": "cloudflare-engineering-manager-data-center-operations-https-boards-greenhouse-io-cloudflare-jobs-8293647-gh-jid-8293647",
@@ -1700,7 +1715,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8293647?gh_jid=8293647",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.995313+00:00"
+      "verified_at": "2026-11-22T13:07:54.114531+00:00"
     },
     {
       "id": "cloudflare-enterprise-account-executive-philippines-https-boards-greenhouse-io-cloudflare-jobs-8332958-gh-jid-8332958",
@@ -1715,7 +1730,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8332958?gh_jid=8332958",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.996129+00:00"
+      "verified_at": "2026-11-22T13:07:54.115849+00:00"
     },
     {
       "id": "cloudflare-enterprise-systems-developer-order-to-cash-https-boards-greenhouse-io-cloudflare-jobs-8224347-gh-jid-8224347",
@@ -1730,7 +1745,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8224347?gh_jid=8224347",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.997390+00:00"
+      "verified_at": "2026-11-22T13:07:54.117925+00:00"
     },
     {
       "id": "cloudflare-forward-deployed-engineer-professional-services-https-boards-greenhouse-io-cloudflare-jobs-8043305-gh-jid-8043305",
@@ -1745,7 +1760,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.998863+00:00"
+      "verified_at": "2026-11-22T13:07:54.120952+00:00"
     },
     {
       "id": "cloudflare-global-vendor-manager-data-center-infrastructure-https-boards-greenhouse-io-cloudflare-jobs-8328089-gh-jid-8328089",
@@ -1760,7 +1775,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8328089?gh_jid=8328089",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:02.999620+00:00"
+      "verified_at": "2026-11-22T13:07:54.121729+00:00"
     },
     {
       "id": "cloudflare-hardware-systems-engineer-https-boards-greenhouse-io-cloudflare-jobs-8223480-gh-jid-8223480",
@@ -1775,7 +1790,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8223480?gh_jid=8223480",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.000255+00:00"
+      "verified_at": "2026-11-22T13:07:54.122696+00:00"
     },
     {
       "id": "cloudflare-manager-presales-customer-engineering-https-boards-greenhouse-io-cloudflare-jobs-8140704-gh-jid-8140704",
@@ -1790,7 +1805,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8140704?gh_jid=8140704",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.004606+00:00"
+      "verified_at": "2026-11-22T13:07:54.129865+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-fsi-hong-kong-https-boards-greenhouse-io-cloudflare-jobs-7868936-gh-jid-7868936",
@@ -1805,7 +1820,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7868936?gh_jid=7868936",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.005901+00:00"
+      "verified_at": "2026-11-22T13:07:54.131987+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-indonesia-public-sector-https-boards-greenhouse-io-cloudflare-jobs-8332960-gh-jid-8332960",
@@ -1820,7 +1835,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8332960?gh_jid=8332960",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.006273+00:00"
+      "verified_at": "2026-11-22T13:07:54.132585+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-philippines-https-boards-greenhouse-io-cloudflare-jobs-8332956-gh-jid-8332956",
@@ -1835,7 +1850,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8332956?gh_jid=8332956",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.006649+00:00"
+      "verified_at": "2026-11-22T13:07:54.133188+00:00"
     },
     {
       "id": "cloudflare-named-account-executive-public-sector-enterprise-singapore-https-boards-greenhouse-io-cloudflare-jobs-8155946-gh-jid-8155946",
@@ -1850,7 +1865,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8155946?gh_jid=8155946",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.006987+00:00"
+      "verified_at": "2026-11-22T13:07:54.133756+00:00"
     },
     {
       "id": "cloudflare-network-security-engineer-https-boards-greenhouse-io-cloudflare-jobs-8081027-gh-jid-8081027",
@@ -1865,7 +1880,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8081027?gh_jid=8081027",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.009057+00:00"
+      "verified_at": "2026-11-22T13:07:54.137165+00:00"
     },
     {
       "id": "cloudflare-partner-engineer-spain-https-boards-greenhouse-io-cloudflare-jobs-8185854-gh-jid-8185854",
@@ -1880,7 +1895,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8185854?gh_jid=8185854",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.010001+00:00"
+      "verified_at": "2026-11-22T13:07:54.138636+00:00"
     },
     {
       "id": "cloudflare-partner-solutions-architect-service-providers-location-new-york-new-jersey-dallas-denver-or-seattle-https-boards-greenhouse-io-cloudflare-jobs-804982",
@@ -1895,7 +1910,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8049820?gh_jid=8049820",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.010450+00:00"
+      "verified_at": "2026-11-22T13:07:54.139355+00:00"
     },
     {
       "id": "cloudflare-presales-customer-engineer-https-boards-greenhouse-io-cloudflare-jobs-8333371-gh-jid-8333371",
@@ -1910,7 +1925,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8333371?gh_jid=8333371",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.011491+00:00"
+      "verified_at": "2026-11-22T13:07:54.141121+00:00"
     },
     {
       "id": "cloudflare-principal-campaign-manager-https-boards-greenhouse-io-cloudflare-jobs-8227192-gh-jid-8227192",
@@ -1925,7 +1940,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8227192?gh_jid=8227192",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.011898+00:00"
+      "verified_at": "2026-11-22T13:07:54.141780+00:00"
     },
     {
       "id": "cloudflare-principal-customer-engineer-majors-https-boards-greenhouse-io-cloudflare-jobs-7967144-gh-jid-7967144",
@@ -1940,7 +1955,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7967144?gh_jid=7967144",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.012341+00:00"
+      "verified_at": "2026-11-22T13:07:54.142495+00:00"
     },
     {
       "id": "cloudflare-principal-oracle-supply-chain-lead-https-boards-greenhouse-io-cloudflare-jobs-8157770-gh-jid-8157770",
@@ -1955,7 +1970,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8157770?gh_jid=8157770",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.014899+00:00"
+      "verified_at": "2026-11-22T13:07:54.146424+00:00"
     },
     {
       "id": "cloudflare-principal-partner-engineer-anz-https-boards-greenhouse-io-cloudflare-jobs-8225546-gh-jid-8225546",
@@ -1970,7 +1985,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8225546?gh_jid=8225546",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.015224+00:00"
+      "verified_at": "2026-11-22T13:07:54.146981+00:00"
     },
     {
       "id": "cloudflare-principal-partner-engineer-japan-based-in-tokyo-https-boards-greenhouse-io-cloudflare-jobs-8172554-gh-jid-8172554",
@@ -1985,7 +2000,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172554?gh_jid=8172554",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.015584+00:00"
+      "verified_at": "2026-11-22T13:07:54.147554+00:00"
     },
     {
       "id": "cloudflare-principal-software-engineer-distributed-systems-config-test-deployment-https-boards-greenhouse-io-cloudflare-jobs-8038898-gh-jid-8038898",
@@ -2000,7 +2015,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8038898?gh_jid=8038898",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.016179+00:00"
+      "verified_at": "2026-11-22T13:07:54.148487+00:00"
     },
     {
       "id": "cloudflare-principal-solutions-architect-public-sector-federal-https-boards-greenhouse-io-cloudflare-jobs-8131824-gh-jid-8131824",
@@ -2015,7 +2030,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8131824?gh_jid=8131824",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.017499+00:00"
+      "verified_at": "2026-11-22T13:07:54.150654+00:00"
     },
     {
       "id": "cloudflare-principal-solutions-architect-saarc-https-boards-greenhouse-io-cloudflare-jobs-8219990-gh-jid-8219990",
@@ -2030,7 +2045,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8219990?gh_jid=8219990",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.017813+00:00"
+      "verified_at": "2026-11-22T13:07:54.151169+00:00"
     },
     {
       "id": "cloudflare-project-coordinator-professional-services-https-boards-greenhouse-io-cloudflare-jobs-8331522-gh-jid-8331522",
@@ -2045,7 +2060,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8331522?gh_jid=8331522",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.020289+00:00"
+      "verified_at": "2026-11-22T13:07:54.155030+00:00"
     },
     {
       "id": "cloudflare-rack-integration-operations-engineer-https-boards-greenhouse-io-cloudflare-jobs-8267826-gh-jid-8267826",
@@ -2060,7 +2075,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8267826?gh_jid=8267826",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.021244+00:00"
+      "verified_at": "2026-11-22T13:07:54.156554+00:00"
     },
     {
       "id": "cloudflare-senior-account-executive-digital-native-https-boards-greenhouse-io-cloudflare-jobs-7421848-gh-jid-7421848",
@@ -2075,7 +2090,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7421848?gh_jid=7421848",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.023137+00:00"
+      "verified_at": "2026-11-22T13:07:54.159693+00:00"
     },
     {
       "id": "cloudflare-senior-account-executive-strategic-pursuits-anz-https-boards-greenhouse-io-cloudflare-jobs-8220063-gh-jid-8220063",
@@ -2090,7 +2105,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8220063?gh_jid=8220063",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.024167+00:00"
+      "verified_at": "2026-11-22T13:07:54.161473+00:00"
     },
     {
       "id": "cloudflare-senior-account-executive-strategic-pursuits-fsi-saarc-based-in-bangalore-https-boards-greenhouse-io-cloudflare-jobs-8222299-gh-jid-8222299",
@@ -2105,7 +2120,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8222299?gh_jid=8222299",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.024558+00:00"
+      "verified_at": "2026-11-22T13:07:54.162127+00:00"
     },
     {
       "id": "cloudflare-senior-certificate-authority-architect-https-boards-greenhouse-io-cloudflare-jobs-8263503-gh-jid-8263503",
@@ -2120,7 +2135,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8263503?gh_jid=8263503",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.025042+00:00"
+      "verified_at": "2026-11-22T13:07:54.162920+00:00"
     },
     {
       "id": "cloudflare-senior-commercial-account-executive-https-boards-greenhouse-io-cloudflare-jobs-7478874-gh-jid-7478874",
@@ -2135,7 +2150,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7478874?gh_jid=7478874",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.025468+00:00"
+      "verified_at": "2026-11-22T13:07:54.163624+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-bogot-colombia-https-boards-greenhouse-io-cloudflare-jobs-8174249-gh-jid-8174249",
@@ -2150,7 +2165,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8174249?gh_jid=8174249",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.027509+00:00"
+      "verified_at": "2026-11-22T13:07:54.166994+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-central-eastern-europe-hebrew-speaking-https-boards-greenhouse-io-cloudflare-jobs-7978788-gh-jid-7978788",
@@ -2165,7 +2180,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7978788?gh_jid=7978788",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.028657+00:00"
+      "verified_at": "2026-11-22T13:07:54.168817+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-central-eastern-europe-russian-speaking-https-boards-greenhouse-io-cloudflare-jobs-8312664-gh-jid-8312664",
@@ -2180,7 +2195,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8312664?gh_jid=8312664",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.029072+00:00"
+      "verified_at": "2026-11-22T13:07:54.169543+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-enterprise-ai-bay-area-https-boards-greenhouse-io-cloudflare-jobs-8077614-gh-jid-8077614",
@@ -2195,7 +2210,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8077614?gh_jid=8077614",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.030170+00:00"
+      "verified_at": "2026-11-22T13:07:54.171291+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-enterprise-san-francisco-https-boards-greenhouse-io-cloudflare-jobs-8332012-gh-jid-8332012",
@@ -2210,7 +2225,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8332012?gh_jid=8332012",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.030638+00:00"
+      "verified_at": "2026-11-22T13:07:54.172061+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-hong-kong-pre-sales-https-boards-greenhouse-io-cloudflare-jobs-8097947-gh-jid-8097947",
@@ -2225,7 +2240,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8097947?gh_jid=8097947",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.030929+00:00"
+      "verified_at": "2026-11-22T13:07:54.172551+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-indonesia-https-boards-greenhouse-io-cloudflare-jobs-8239175-gh-jid-8239175",
@@ -2240,7 +2255,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8239175?gh_jid=8239175",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.031335+00:00"
+      "verified_at": "2026-11-22T13:07:54.173236+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-japan-https-boards-greenhouse-io-cloudflare-jobs-8146536-gh-jid-8146536",
@@ -2255,7 +2270,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8146536?gh_jid=8146536",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.031631+00:00"
+      "verified_at": "2026-11-22T13:07:54.173755+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-https-boards-greenhouse-io-cloudflare-jobs-8200786-gh-jid-8200786",
@@ -2270,7 +2285,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8200786?gh_jid=8200786",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.032066+00:00"
+      "verified_at": "2026-11-22T13:07:54.174465+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-ne-https-boards-greenhouse-io-cloudflare-jobs-8300941-gh-jid-8300941",
@@ -2285,7 +2300,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8300941?gh_jid=8300941",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.032969+00:00"
+      "verified_at": "2026-11-22T13:07:54.175230+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-nyc-https-boards-greenhouse-io-cloudflare-jobs-7980647-gh-jid-7980647",
@@ -2300,7 +2315,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7980647?gh_jid=7980647",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.033469+00:00"
+      "verified_at": "2026-11-22T13:07:54.176812+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-pittsburgh-pa-https-boards-greenhouse-io-cloudflare-jobs-8172153-gh-jid-8172153",
@@ -2315,7 +2330,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172153?gh_jid=8172153",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.033968+00:00"
+      "verified_at": "2026-11-22T13:07:54.177605+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-raleigh-nc-https-boards-greenhouse-io-cloudflare-jobs-7864156-gh-jid-7864156",
@@ -2330,7 +2345,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7864156?gh_jid=7864156",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.034450+00:00"
+      "verified_at": "2026-11-22T13:07:54.178409+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-southwest-https-boards-greenhouse-io-cloudflare-jobs-8172200-gh-jid-8172200",
@@ -2345,7 +2360,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172200?gh_jid=8172200",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.034951+00:00"
+      "verified_at": "2026-11-22T13:07:54.179219+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-majors-tola-https-boards-greenhouse-io-cloudflare-jobs-8268965-gh-jid-8268965",
@@ -2360,7 +2375,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8268965?gh_jid=8268965",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.035395+00:00"
+      "verified_at": "2026-11-22T13:07:54.179985+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-montreal-qc-https-boards-greenhouse-io-cloudflare-jobs-8335624-gh-jid-8335624",
@@ -2375,7 +2390,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8335624?gh_jid=8335624",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.036019+00:00"
+      "verified_at": "2026-11-22T13:07:54.180963+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-cincinnati-oh-https-boards-greenhouse-io-cloudflare-jobs-7954702-gh-jid-7954702",
@@ -2390,7 +2405,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7954702?gh_jid=7954702",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.036512+00:00"
+      "verified_at": "2026-11-22T13:07:54.181769+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-la-https-boards-greenhouse-io-cloudflare-jobs-8171942-gh-jid-8171942",
@@ -2405,7 +2420,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8171942?gh_jid=8171942",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.036978+00:00"
+      "verified_at": "2026-11-22T13:07:54.182523+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-new-york-city-https-boards-greenhouse-io-cloudflare-jobs-8247433-gh-jid-8247433",
@@ -2420,7 +2435,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8247433?gh_jid=8247433",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.037437+00:00"
+      "verified_at": "2026-11-22T13:07:54.183287+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-portland-or-https-boards-greenhouse-io-cloudflare-jobs-8268259-gh-jid-8268259",
@@ -2435,7 +2450,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8268259?gh_jid=8268259",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.037890+00:00"
+      "verified_at": "2026-11-22T13:07:54.184046+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-named-seattle-https-boards-greenhouse-io-cloudflare-jobs-8172023-gh-jid-8172023",
@@ -2450,7 +2465,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172023?gh_jid=8172023",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.038386+00:00"
+      "verified_at": "2026-11-22T13:07:54.184853+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-pre-sales-east-china-https-boards-greenhouse-io-cloudflare-jobs-8147190-gh-jid-8147190",
@@ -2465,7 +2480,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.038735+00:00"
+      "verified_at": "2026-11-22T13:07:54.185401+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-public-sector-federal-https-boards-greenhouse-io-cloudflare-jobs-7530475-gh-jid-7530475",
@@ -2480,7 +2495,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.039211+00:00"
+      "verified_at": "2026-11-22T13:07:54.186133+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-public-sector-federal-https-boards-greenhouse-io-cloudflare-jobs-8131833-gh-jid-8131833",
@@ -2495,7 +2510,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8131833?gh_jid=8131833",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.039683+00:00"
+      "verified_at": "2026-11-22T13:07:54.186855+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-santiago-chile-https-boards-greenhouse-io-cloudflare-jobs-8174368-gh-jid-8174368",
@@ -2510,7 +2525,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8174368?gh_jid=8174368",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.040400+00:00"
+      "verified_at": "2026-11-22T13:07:54.188087+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-saudi-arabia-https-boards-greenhouse-io-cloudflare-jobs-8170564-gh-jid-8170564",
@@ -2525,7 +2540,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8170564?gh_jid=8170564",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.040833+00:00"
+      "verified_at": "2026-11-22T13:07:54.188785+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-sled-tx-austin-dallas-or-houston-https-boards-greenhouse-io-cloudflare-jobs-8238015-gh-jid-8238015",
@@ -2540,7 +2555,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8238015?gh_jid=8238015",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.041187+00:00"
+      "verified_at": "2026-11-22T13:07:54.189378+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-start-up-ai-https-boards-greenhouse-io-cloudflare-jobs-8185549-gh-jid-8185549",
@@ -2555,7 +2570,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8185549?gh_jid=8185549",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.041752+00:00"
+      "verified_at": "2026-11-22T13:07:54.190253+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-strategic-pursuits-apac-based-in-india-https-boards-greenhouse-io-cloudflare-jobs-8248554-gh-jid-8248554",
@@ -2570,7 +2585,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8248554?gh_jid=8248554",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.042038+00:00"
+      "verified_at": "2026-11-22T13:07:54.190742+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-strategic-pursuits-apac-based-in-singapore-https-boards-greenhouse-io-cloudflare-jobs-8248543-gh-jid-8248543",
@@ -2585,7 +2600,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8248543?gh_jid=8248543",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.042364+00:00"
+      "verified_at": "2026-11-22T13:07:54.191287+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-strategic-san-francisco-https-boards-greenhouse-io-cloudflare-jobs-8246078-gh-jid-8246078",
@@ -2600,7 +2615,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8246078?gh_jid=8246078",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.042839+00:00"
+      "verified_at": "2026-11-22T13:07:54.192053+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-strategic-seattle-wa-https-boards-greenhouse-io-cloudflare-jobs-8335069-gh-jid-8335069",
@@ -2615,7 +2630,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8335069?gh_jid=8335069",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.043356+00:00"
+      "verified_at": "2026-11-22T13:07:54.192877+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-sub-saharan-africa-https-boards-greenhouse-io-cloudflare-jobs-7698880-gh-jid-7698880",
@@ -2630,7 +2645,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7698880?gh_jid=7698880",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.043785+00:00"
+      "verified_at": "2026-11-22T13:07:54.193567+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-turkey-https-boards-greenhouse-io-cloudflare-jobs-8170534-gh-jid-8170534",
@@ -2645,7 +2660,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8170534?gh_jid=8170534",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.045468+00:00"
+      "verified_at": "2026-11-22T13:07:54.196385+00:00"
     },
     {
       "id": "cloudflare-senior-customer-engineer-vietnam-https-boards-greenhouse-io-cloudflare-jobs-8158620-gh-jid-8158620",
@@ -2660,7 +2675,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8158620?gh_jid=8158620",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.046573+00:00"
+      "verified_at": "2026-11-22T13:07:54.198184+00:00"
     },
     {
       "id": "cloudflare-senior-customer-reliability-engineer-https-boards-greenhouse-io-cloudflare-jobs-8331153-gh-jid-8331153",
@@ -2675,7 +2690,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8331153?gh_jid=8331153",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.047515+00:00"
+      "verified_at": "2026-11-22T13:07:54.199861+00:00"
     },
     {
       "id": "cloudflare-senior-digital-native-account-executive-spain-https-boards-greenhouse-io-cloudflare-jobs-7272028-gh-jid-7272028",
@@ -2690,7 +2705,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7272028?gh_jid=7272028",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.048276+00:00"
+      "verified_at": "2026-11-22T13:07:54.201024+00:00"
     },
     {
       "id": "cloudflare-senior-enterprise-systems-developer-procurement-systems-https-boards-greenhouse-io-cloudflare-jobs-8223672-gh-jid-8223672",
@@ -2705,7 +2720,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8223672?gh_jid=8223672",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.050017+00:00"
+      "verified_at": "2026-11-22T13:07:54.203681+00:00"
     },
     {
       "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8206674-gh-jid-8206674",
@@ -2720,22 +2735,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8206674?gh_jid=8206674",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.050538+00:00"
-    },
-    {
-      "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8173707-gh-jid-8173707",
-      "title": "Senior Forward Deployed Engineer",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "country": "Not stated",
-      "work_mode": "Hybrid",
-      "relocation": "Not stated",
-      "seniority": "Senior",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;San Francisco, US&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;About the Role&lt;/h2",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8173707?gh_jid=8173707",
-      "posted_at": "2026-11-09T19:03:42-05:00",
-      "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.051337+00:00"
+      "verified_at": "2026-11-22T13:07:54.204488+00:00"
     },
     {
       "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8265704-gh-jid-8265704",
@@ -2750,7 +2750,22 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8265704?gh_jid=8265704",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.051678+00:00"
+      "verified_at": "2026-11-22T13:07:54.205057+00:00"
+    },
+    {
+      "id": "cloudflare-senior-forward-deployed-engineer-https-boards-greenhouse-io-cloudflare-jobs-8173707-gh-jid-8173707",
+      "title": "Senior Forward Deployed Engineer",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "country": "Not stated",
+      "work_mode": "Hybrid",
+      "relocation": "Not stated",
+      "seniority": "Senior",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Available Locations&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;San Francisco, US&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;About the Role&lt;/h2",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8173707?gh_jid=8173707",
+      "posted_at": "2026-11-09T19:03:42-05:00",
+      "source_name": "Cloudflare official Greenhouse board",
+      "verified_at": "2026-11-22T13:07:54.205681+00:00"
     },
     {
       "id": "cloudflare-senior-forward-deployed-infrastructure-engineer-https-boards-greenhouse-io-cloudflare-jobs-8256332-gh-jid-8256332",
@@ -2765,7 +2780,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.052188+00:00"
+      "verified_at": "2026-11-22T13:07:54.207130+00:00"
     },
     {
       "id": "cloudflare-senior-lead-management-specialist-https-boards-greenhouse-io-cloudflare-jobs-8186255-gh-jid-8186255",
@@ -2780,7 +2795,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8186255?gh_jid=8186255",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.053437+00:00"
+      "verified_at": "2026-11-22T13:07:54.208985+00:00"
     },
     {
       "id": "cloudflare-senior-machine-learning-engineer-https-boards-greenhouse-io-cloudflare-jobs-8042034-gh-jid-8042034",
@@ -2795,7 +2810,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.054207+00:00"
+      "verified_at": "2026-11-22T13:07:54.210187+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8173393-gh-jid-8173393",
@@ -2810,7 +2825,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8173393?gh_jid=8173393",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.054612+00:00"
+      "verified_at": "2026-11-22T13:07:54.210825+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-apple-san-francisco-bay-area-https-boards-greenhouse-io-cloudflare-jobs-8274111-gh-jid-8274111",
@@ -2825,7 +2840,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8274111?gh_jid=8274111",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.054999+00:00"
+      "verified_at": "2026-11-22T13:07:54.211435+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-chicago-https-boards-greenhouse-io-cloudflare-jobs-8099002-gh-jid-8099002",
@@ -2840,7 +2855,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8099002?gh_jid=8099002",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.055905+00:00"
+      "verified_at": "2026-11-22T13:07:54.212854+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-dallas-https-boards-greenhouse-io-cloudflare-jobs-8084082-gh-jid-8084082",
@@ -2855,7 +2870,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8084082?gh_jid=8084082",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.056316+00:00"
+      "verified_at": "2026-11-22T13:07:54.213521+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-google-san-francisco-bay-area-https-boards-greenhouse-io-cloudflare-jobs-8241766-gh-jid-8241766",
@@ -2870,7 +2885,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8241766?gh_jid=8241766",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.057148+00:00"
+      "verified_at": "2026-11-22T13:07:54.214862+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-ibm-new-york-https-boards-greenhouse-io-cloudflare-jobs-8233692-gh-jid-8233692",
@@ -2885,7 +2900,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8233692?gh_jid=8233692",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.057578+00:00"
+      "verified_at": "2026-11-22T13:07:54.215547+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-meta-san-francisco-bay-area-https-boards-greenhouse-io-cloudflare-jobs-8274112-gh-jid-8274112",
@@ -2900,7 +2915,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8274112?gh_jid=8274112",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.057954+00:00"
+      "verified_at": "2026-11-22T13:07:54.216173+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-minnesota-https-boards-greenhouse-io-cloudflare-jobs-8239834-gh-jid-8239834",
@@ -2915,7 +2930,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8239834?gh_jid=8239834",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.058845+00:00"
+      "verified_at": "2026-11-22T13:07:54.217567+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-new-york-https-boards-greenhouse-io-cloudflare-jobs-7747326-gh-jid-7747326",
@@ -2930,7 +2945,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7747326?gh_jid=7747326",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.059794+00:00"
+      "verified_at": "2026-11-22T13:07:54.219090+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-phoenix-https-boards-greenhouse-io-cloudflare-jobs-8327958-gh-jid-8327958",
@@ -2945,7 +2960,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8327958?gh_jid=8327958",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.060174+00:00"
+      "verified_at": "2026-11-22T13:07:54.219711+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-toronto-https-boards-greenhouse-io-cloudflare-jobs-7474034-gh-jid-7474034",
@@ -2960,7 +2975,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7474034?gh_jid=7474034",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.060542+00:00"
+      "verified_at": "2026-11-22T13:07:54.220295+00:00"
     },
     {
       "id": "cloudflare-senior-majors-account-executive-wisconsin-https-boards-greenhouse-io-cloudflare-jobs-8239900-gh-jid-8239900",
@@ -2975,7 +2990,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8239900?gh_jid=8239900",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.060932+00:00"
+      "verified_at": "2026-11-22T13:07:54.220952+00:00"
     },
     {
       "id": "cloudflare-senior-manager-customer-engineering-central-eastern-europe-israel-hebrew-speaking-https-boards-greenhouse-io-cloudflare-jobs-8312693-gh-jid-8312693",
@@ -2990,7 +3005,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8312693?gh_jid=8312693",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.062726+00:00"
+      "verified_at": "2026-11-22T13:07:54.224708+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-https-boards-greenhouse-io-cloudflare-jobs-8180521-gh-jid-8180521",
@@ -3005,7 +3020,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8180521?gh_jid=8180521",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.064358+00:00"
+      "verified_at": "2026-11-22T13:07:54.227578+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-ankara-public-sector-https-boards-greenhouse-io-cloudflare-jobs-8169785-gh-jid-8169785",
@@ -3020,7 +3035,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8169785?gh_jid=8169785",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.065016+00:00"
+      "verified_at": "2026-11-22T13:07:54.228490+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-bengaluru-https-boards-greenhouse-io-cloudflare-jobs-7405115-gh-jid-7405115",
@@ -3035,7 +3050,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7405115?gh_jid=7405115",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.065337+00:00"
+      "verified_at": "2026-11-22T13:07:54.228970+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-buffalo-https-boards-greenhouse-io-cloudflare-jobs-8201823-gh-jid-8201823",
@@ -3050,7 +3065,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8201823?gh_jid=8201823",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.065863+00:00"
+      "verified_at": "2026-11-22T13:07:54.229741+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-dallas-https-boards-greenhouse-io-cloudflare-jobs-7799240-gh-jid-7799240",
@@ -3065,7 +3080,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7799240?gh_jid=7799240",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.066824+00:00"
+      "verified_at": "2026-11-22T13:07:54.231228+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-federal-government-ottawa-https-boards-greenhouse-io-cloudflare-jobs-8109416-gh-jid-8109416",
@@ -3080,7 +3095,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8109416?gh_jid=8109416",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.067553+00:00"
+      "verified_at": "2026-11-22T13:07:54.232407+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-fedgov-civilian-agencies-canberra-https-boards-greenhouse-io-cloudflare-jobs-8121029-gh-jid-8121029",
@@ -3095,7 +3110,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8121029?gh_jid=8121029",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.067924+00:00"
+      "verified_at": "2026-11-22T13:07:54.232991+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-israel-digital-natives-enterprise-https-boards-greenhouse-io-cloudflare-jobs-8207632-gh-jid-8207632",
@@ -3110,7 +3125,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8207632?gh_jid=8207632",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.068854+00:00"
+      "verified_at": "2026-11-22T13:07:54.234472+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-majors-sydney-https-boards-greenhouse-io-cloudflare-jobs-8121020-gh-jid-8121020",
@@ -3125,7 +3140,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8121020?gh_jid=8121020",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.069320+00:00"
+      "verified_at": "2026-11-22T13:07:54.235198+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-mumbai-https-boards-greenhouse-io-cloudflare-jobs-8127559-gh-jid-8127559",
@@ -3140,7 +3155,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8127559?gh_jid=8127559",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.070173+00:00"
+      "verified_at": "2026-11-22T13:07:54.236495+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-new-york-https-boards-greenhouse-io-cloudflare-jobs-8202120-gh-jid-8202120",
@@ -3155,7 +3170,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8202120?gh_jid=8202120",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.071168+00:00"
+      "verified_at": "2026-11-22T13:07:54.238533+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-northern-emirates-https-boards-greenhouse-io-cloudflare-jobs-8179389-gh-jid-8179389",
@@ -3170,7 +3185,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8179389?gh_jid=8179389",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.072014+00:00"
+      "verified_at": "2026-11-22T13:07:54.239920+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-northern-va-dc-metro-https-boards-greenhouse-io-cloudflare-jobs-8112200-gh-jid-8112200",
@@ -3185,7 +3200,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8112200?gh_jid=8112200",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.072553+00:00"
+      "verified_at": "2026-11-22T13:07:54.240726+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-phoenix-https-boards-greenhouse-io-cloudflare-jobs-8211796-gh-jid-8211796",
@@ -3200,7 +3215,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8211796?gh_jid=8211796",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.072991+00:00"
+      "verified_at": "2026-11-22T13:07:54.241419+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-saudi-arabia-https-boards-greenhouse-io-cloudflare-jobs-8258771-gh-jid-8258771",
@@ -3215,7 +3230,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8258771?gh_jid=8258771",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.073599+00:00"
+      "verified_at": "2026-11-22T13:07:54.242341+00:00"
     },
     {
       "id": "cloudflare-senior-named-account-executive-uae-public-sector-https-boards-greenhouse-io-cloudflare-jobs-8179405-gh-jid-8179405",
@@ -3230,7 +3245,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8179405?gh_jid=8179405",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.074125+00:00"
+      "verified_at": "2026-11-22T13:07:54.243170+00:00"
     },
     {
       "id": "cloudflare-senior-named-customer-engineer-uki-https-boards-greenhouse-io-cloudflare-jobs-7515882-gh-jid-7515882",
@@ -3245,7 +3260,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7515882?gh_jid=7515882",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.074623+00:00"
+      "verified_at": "2026-11-22T13:07:54.243938+00:00"
     },
     {
       "id": "cloudflare-senior-oracle-epm-specialist-https-boards-greenhouse-io-cloudflare-jobs-7978887-gh-jid-7978887",
@@ -3260,7 +3275,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7978887?gh_jid=7978887",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.075492+00:00"
+      "verified_at": "2026-11-22T13:07:54.245238+00:00"
     },
     {
       "id": "cloudflare-senior-oracle-security-and-ai-engineer-https-boards-greenhouse-io-cloudflare-jobs-8221248-gh-jid-8221248",
@@ -3275,7 +3290,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8221248?gh_jid=8221248",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.075819+00:00"
+      "verified_at": "2026-11-22T13:07:54.245762+00:00"
     },
     {
       "id": "cloudflare-senior-presales-customer-engineer-based-in-canberra-https-boards-greenhouse-io-cloudflare-jobs-7956845-gh-jid-7956845",
@@ -3290,7 +3305,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7956845?gh_jid=7956845",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.076423+00:00"
+      "verified_at": "2026-11-22T13:07:54.247213+00:00"
     },
     {
       "id": "cloudflare-senior-product-manager-agentic-search-https-boards-greenhouse-io-cloudflare-jobs-8336559-gh-jid-8336559",
@@ -3305,7 +3320,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8336559?gh_jid=8336559",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.077207+00:00"
+      "verified_at": "2026-11-22T13:07:54.248403+00:00"
     },
     {
       "id": "cloudflare-senior-product-manager-email-security-https-boards-greenhouse-io-cloudflare-jobs-8173954-gh-jid-8173954",
@@ -3320,7 +3335,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8173954?gh_jid=8173954",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.077718+00:00"
+      "verified_at": "2026-11-22T13:07:54.249226+00:00"
     },
     {
       "id": "cloudflare-senior-professional-services-engineer-https-boards-greenhouse-io-cloudflare-jobs-8025521-gh-jid-8025521",
@@ -3335,7 +3350,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8025521?gh_jid=8025521",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.079564+00:00"
+      "verified_at": "2026-11-22T13:07:54.252047+00:00"
     },
     {
       "id": "cloudflare-senior-sales-manager-digital-native-japan-based-in-tokyo-https-boards-greenhouse-io-cloudflare-jobs-7767743-gh-jid-7767743",
@@ -3350,7 +3365,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7767743?gh_jid=7767743",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.080885+00:00"
+      "verified_at": "2026-11-22T13:07:54.254064+00:00"
     },
     {
       "id": "cloudflare-senior-sase-sales-specialist-https-boards-greenhouse-io-cloudflare-jobs-7534033-gh-jid-7534033",
@@ -3365,7 +3380,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7534033?gh_jid=7534033",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.081283+00:00"
+      "verified_at": "2026-11-22T13:07:54.254676+00:00"
     },
     {
       "id": "cloudflare-senior-software-engineer-kubernetes-platform-https-boards-greenhouse-io-cloudflare-jobs-8263016-gh-jid-8263016",
@@ -3380,7 +3395,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.083878+00:00"
+      "verified_at": "2026-11-22T13:07:54.258676+00:00"
     },
     {
       "id": "cloudflare-senior-software-engineer-security-platform-https-boards-greenhouse-io-cloudflare-jobs-8243201-gh-jid-8243201",
@@ -3395,7 +3410,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8243201?gh_jid=8243201",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.085012+00:00"
+      "verified_at": "2026-11-22T13:07:54.260488+00:00"
     },
     {
       "id": "cloudflare-senior-strategic-partnerships-manager-https-boards-greenhouse-io-cloudflare-jobs-8244876-gh-jid-8244876",
@@ -3410,7 +3425,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8244876?gh_jid=8244876",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.087445+00:00"
+      "verified_at": "2026-11-22T13:07:54.264326+00:00"
     },
     {
       "id": "cloudflare-senior-technical-program-manager-https-boards-greenhouse-io-cloudflare-jobs-8255561-gh-jid-8255561",
@@ -3425,7 +3440,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8255561?gh_jid=8255561",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.090797+00:00"
+      "verified_at": "2026-11-22T13:07:54.269495+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-beijing-https-boards-greenhouse-io-cloudflare-jobs-8181043-gh-jid-8181043",
@@ -3440,7 +3455,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8181043?gh_jid=8181043",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.091931+00:00"
+      "verified_at": "2026-11-22T13:07:54.271311+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-north-africa-https-boards-greenhouse-io-cloudflare-jobs-8258919-gh-jid-8258919",
@@ -3455,7 +3470,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8258919?gh_jid=8258919",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.094696+00:00"
+      "verified_at": "2026-11-22T13:07:54.275751+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-oman-https-boards-greenhouse-io-cloudflare-jobs-8179461-gh-jid-8179461",
@@ -3470,7 +3485,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8179461?gh_jid=8179461",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.095255+00:00"
+      "verified_at": "2026-11-22T13:07:54.276653+00:00"
     },
     {
       "id": "cloudflare-senior-territory-account-executive-shanghai-https-boards-greenhouse-io-cloudflare-jobs-8323918-gh-jid-8323918",
@@ -3485,7 +3500,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8323918?gh_jid=8323918",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.096112+00:00"
+      "verified_at": "2026-11-22T13:07:54.277981+00:00"
     },
     {
       "id": "cloudflare-services-sales-manager-professional-services-https-boards-greenhouse-io-cloudflare-jobs-8274879-gh-jid-8274879",
@@ -3500,7 +3515,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8274879?gh_jid=8274879",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.096803+00:00"
+      "verified_at": "2026-11-22T13:07:54.279114+00:00"
     },
     {
       "id": "cloudflare-services-sales-manager-professional-services-https-boards-greenhouse-io-cloudflare-jobs-8274068-gh-jid-8274068",
@@ -3515,7 +3530,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8274068?gh_jid=8274068",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.097210+00:00"
+      "verified_at": "2026-11-22T13:07:54.279771+00:00"
     },
     {
       "id": "cloudflare-services-sales-manager-professional-services-sydney-https-boards-greenhouse-io-cloudflare-jobs-8283875-gh-jid-8283875",
@@ -3530,7 +3545,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8283875?gh_jid=8283875",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.097520+00:00"
+      "verified_at": "2026-11-22T13:07:54.280282+00:00"
     },
     {
       "id": "cloudflare-sr-director-developer-gtm-https-boards-greenhouse-io-cloudflare-jobs-8303150-gh-jid-8303150",
@@ -3545,7 +3560,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8303150?gh_jid=8303150",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.100743+00:00"
+      "verified_at": "2026-11-22T13:07:54.285533+00:00"
     },
     {
       "id": "cloudflare-staff-principal-software-engineer-security-platform-https-boards-greenhouse-io-cloudflare-jobs-7053411-gh-jid-7053411",
@@ -3560,7 +3575,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7053411?gh_jid=7053411",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.102122+00:00"
+      "verified_at": "2026-11-22T13:07:54.287733+00:00"
     },
     {
       "id": "cloudflare-strategy-m-a-lead-https-boards-greenhouse-io-cloudflare-jobs-8188127-gh-jid-8188127",
@@ -3575,7 +3590,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8188127?gh_jid=8188127",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.103504+00:00"
+      "verified_at": "2026-11-22T13:07:54.289892+00:00"
     },
     {
       "id": "cloudflare-supply-chain-program-manager-rack-integration-https-boards-greenhouse-io-cloudflare-jobs-8214726-gh-jid-8214726",
@@ -3590,7 +3605,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8214726?gh_jid=8214726",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.103968+00:00"
+      "verified_at": "2026-11-22T13:07:54.290597+00:00"
     },
     {
       "id": "cloudflare-technical-support-engineer-application-services-https-boards-greenhouse-io-cloudflare-jobs-8229993-gh-jid-8229993",
@@ -3605,7 +3620,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8229993?gh_jid=8229993",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.107212+00:00"
+      "verified_at": "2026-11-22T13:07:54.295993+00:00"
     },
     {
       "id": "cloudflare-technical-support-engineer-zero-trust-https-boards-greenhouse-io-cloudflare-jobs-8329758-gh-jid-8329758",
@@ -3620,7 +3635,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8329758?gh_jid=8329758",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.107859+00:00"
+      "verified_at": "2026-11-22T13:07:54.298212+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-digital-native-indonesia-https-boards-greenhouse-io-cloudflare-jobs-8168940-gh-jid-8168940",
@@ -3635,7 +3650,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8168940?gh_jid=8168940",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.109720+00:00"
+      "verified_at": "2026-11-22T13:07:54.299990+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-qatar-https-boards-greenhouse-io-cloudflare-jobs-8045309-gh-jid-8045309",
@@ -3650,7 +3665,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8045309?gh_jid=8045309",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.111097+00:00"
+      "verified_at": "2026-11-22T13:07:54.302235+00:00"
     },
     {
       "id": "cloudflare-territory-account-executive-saudi-arabia-startups-https-boards-greenhouse-io-cloudflare-jobs-7857793-gh-jid-7857793",
@@ -3665,7 +3680,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7857793?gh_jid=7857793",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.111621+00:00"
+      "verified_at": "2026-11-22T13:07:54.303117+00:00"
     },
     {
       "id": "cloudflare-vice-president-cloudflare-one-gtm-https-boards-greenhouse-io-cloudflare-jobs-8172411-gh-jid-8172411",
@@ -3680,7 +3695,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8172411?gh_jid=8172411",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.112348+00:00"
+      "verified_at": "2026-11-22T13:07:54.304327+00:00"
     },
     {
       "id": "cloudflare-vulnerability-defense-software-engineer-cloudforce-one-https-boards-greenhouse-io-cloudflare-jobs-8245503-gh-jid-8245503",
@@ -3695,7 +3710,7 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8245503?gh_jid=8245503",
       "posted_at": "2026-11-09T19:03:42-05:00",
       "source_name": "Cloudflare official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.112982+00:00"
+      "verified_at": "2026-11-22T13:07:54.305376+00:00"
     },
     {
       "id": "figma-researcher-ai-evaluations-https-boards-greenhouse-io-figma-jobs-6242701004-gh-jid-6242701004",
@@ -3710,7 +3725,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6242701004?gh_jid=6242701004",
       "posted_at": "2026-11-09T16:53:01-05:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.294148+00:00"
+      "verified_at": "2026-11-22T13:07:54.389979+00:00"
     },
     {
       "id": "figma-ai-applied-scientist-https-boards-greenhouse-io-figma-jobs-5707966004-gh-jid-5707966004",
@@ -3725,7 +3740,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.286671+00:00"
+      "verified_at": "2026-11-22T13:07:54.377670+00:00"
     },
     {
       "id": "figma-forward-deployed-engineer-https-boards-greenhouse-io-figma-jobs-6158162004-gh-jid-6158162004",
@@ -3740,7 +3755,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.290060+00:00"
+      "verified_at": "2026-11-22T13:07:54.383064+00:00"
     },
     {
       "id": "figma-software-engineer-ai-platforms-https-boards-greenhouse-io-figma-jobs-5691886004-gh-jid-5691886004",
@@ -3755,7 +3770,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.295711+00:00"
+      "verified_at": "2026-11-22T13:07:54.392608+00:00"
     },
     {
       "id": "figma-software-engineer-data-infrastructure-https-boards-greenhouse-io-figma-jobs-5551686004-gh-jid-5551686004",
@@ -3770,7 +3785,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.296398+00:00"
+      "verified_at": "2026-11-22T13:07:54.393750+00:00"
     },
     {
       "id": "figma-software-engineer-distributed-systems-https-boards-greenhouse-io-figma-jobs-5552549004-gh-jid-5552549004",
@@ -3785,7 +3800,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.296836+00:00"
+      "verified_at": "2026-11-22T13:07:54.394432+00:00"
     },
     {
       "id": "figma-software-engineer-machine-learning-https-boards-greenhouse-io-figma-jobs-5551532004-gh-jid-5551532004",
@@ -3800,7 +3815,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.297591+00:00"
+      "verified_at": "2026-11-22T13:07:54.395604+00:00"
     },
     {
       "id": "figma-technical-program-manager-infrastructure-https-boards-greenhouse-io-figma-jobs-6020719004-gh-jid-6020719004",
@@ -3815,7 +3830,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6020719004?gh_jid=6020719004",
       "posted_at": "2026-10-27T13:40:12-04:00",
       "source_name": "Figma official Greenhouse board",
-      "verified_at": "2026-11-21T13:16:03.298947+00:00"
+      "verified_at": "2026-11-22T13:07:54.397801+00:00"
     }
   ]
 }
